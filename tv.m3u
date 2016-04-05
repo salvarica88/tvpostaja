@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
+#EXTM3U 
 #EXTINF:-1 tvg-id="119" tvg-name="***** Sport *****" tvg-logo="/noicon.png" group-title="Sport",***** Sport ***** - ***** Sport *****
 http://dreamsat.better-than.tv:80/live?channelId=119&uid=2107&deviceUser=606Info&devicePass=606Info
 #EXTINF:-1 tvg-id="120" tvg-name="Sport Klub 1 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 HR - Sport Klub 1 HR
