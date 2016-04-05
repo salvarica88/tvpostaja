@@ -1,4 +1,126 @@
 #EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
+#EXTINF:-1 tvg-id="119" tvg-name="***** Sport *****" tvg-logo="/noicon.png" group-title="Sport",***** Sport ***** - ***** Sport *****
+http://dreamsat.better-than.tv:80/live?channelId=119&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="120" tvg-name="Sport Klub 1 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 HR - Sport Klub 1 HR
+http://s01.kafic.info:80/live?channelId=120&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="121" tvg-name="Sport Klub 2 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk2-logo.png" group-title="Sport",Sport Klub 2 HR - Sport Klub 2 HR
+http://s01.kafic.info:80/live?channelId=121&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="122" tvg-name="Sport Klub 3 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk3-logo.png" group-title="Sport",Sport Klub 3 HR - Sport Klub 3 HR
+http://s01.kafic.info:80/live?channelId=122&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="123" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
+http://s01.kafic.info:80/live?channelId=123&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="124" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_2.png" group-title="Sport",Sport Klub 2 - Sport Klub 2
+http://s01.kafic.info:80/live?channelId=124&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="125" tvg-name="Sport Klub 3" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_3.png" group-title="Sport",Sport Klub 3 - Sport Klub 3
+http://s01.kafic.info:80/live?channelId=125&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="237" tvg-name="Sport klub 4" tvg-logo="http://media.port-network.com/picture/instance_2/510897_2.jpg" group-title="Sport",Sport klub 4 - Sport klub 4
+http://cms.kafic.info:80/live?channelId=237&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="238" tvg-name="Sport klub 5" tvg-logo="http://media.port-network.com/picture/instance_2/510898_2.jpg" group-title="Sport",Sport klub 5 - Sport klub 5
+http://cms.kafic.info:80/live?channelId=238&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="363" tvg-name="Sport klub 6" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2016/02/Sport-Klub-6.jpg" group-title="Sport",Sport klub 6 - Sport klub 6
+http://cms.kafic.info:80/live?channelId=363&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="126" tvg-name="Arena Sport 1 HR" tvg-logo="http://mportal.com.hr/files/uploads/images/440x700/arena_logo.gif" group-title="Sport",Arena Sport 1 HR - Arena Sport 1 HR
+http://cms.kafic.info:80/live?channelId=126&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="127" tvg-name="Arena Sport 2 HR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyDlypZFdgCXgPMI1HhB3i6kNjpF4ttJD8H_z1pCzrQwjvMMR" group-title="Sport",Arena Sport 2 HR - Arena Sport 2 HR
+http://cms.kafic.info:80/live?channelId=127&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="128" tvg-name="Arena Sport 3 HR" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnF_lK9sjTcfnSMvCtXil7DCV_Ml3AnAaHnT2ZBcLQSw44aaU-a-R-t098" group-title="Sport",Arena Sport 3 HR - Arena Sport 3 HR
+http://cms.kafic.info:80/live?channelId=128&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="129" tvg-name="Arena Sport 4 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 4 HR - Arena Sport 4 HR
+http://cms.kafic.info:80/live?channelId=129&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="130" tvg-name="Arena Sport 5 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 5 HR - Arena Sport 5 HR
+http://cms.kafic.info:80/live?channelId=130&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="131" tvg-name="Arena Sport 1" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport1_rs.png" group-title="Sport",Arena Sport 1 - Arena Sport 1
+http://cms.kafic.info:80/live?channelId=131&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="132" tvg-name="Arena Sport 2" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport2_rs.png" group-title="Sport",Arena Sport 2 - Arena Sport 2
+http://cms.kafic.info:80/live?channelId=132&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="133" tvg-name="Arena Sport 3" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport3_rs.png" group-title="Sport",Arena Sport 3 - Arena Sport 3
+http://cms.kafic.info:80/live?channelId=133&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="134" tvg-name="Arena Sport 4" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport5_rs.png" group-title="Sport",Arena Sport 4 - Arena Sport 4
+http://cms.kafic.info:80/live?channelId=134&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="135" tvg-name="Arena Sport 5" tvg-logo="http://www.bhb.ba/upload/images/files.jpg" group-title="Sport",Arena Sport 5 - Arena Sport 5
+http://cms.kafic.info:80/live?channelId=135&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="136" tvg-name="Eurosport 1" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport-logo.png" group-title="Sport",Eurosport 1 - Eurosport 1
+http://s02.kafic.info:80/live?channelId=136&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="137" tvg-name="Eurosport 2" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport2-logo.png" group-title="Sport",Eurosport 2 - Eurosport 2
+http://s02.kafic.info:80/live?channelId=137&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="138" tvg-name="Sky Sports 1 UK" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzAf4aQS8L2lNlFkoycS2VeaNzEAwWOIKryVBCBKXHIrr4ST0w89GdhVbo" group-title="Sport",Sky Sports 1 UK - Sky Sports 1 UK
+http://s02.kafic.info:80/live?channelId=138&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="139" tvg-name="Sky Sports 2 UK" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png" group-title="Sport",Sky Sports 2 UK - Sky Sports 2 UK
+http://s02.kafic.info:80/live?channelId=139&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="140" tvg-name="Sky Sports 3 UK" tvg-logo="http://img2.wikia.nocookie.net/__cb20110206223105/logopedia/images/0/06/Sky_Sport_3_HD_Italy_2010.svg" group-title="Sport",Sky Sports 3 UK - Sky Sports 3 UK
+http://s02.kafic.info:80/live?channelId=140&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="141" tvg-name="Sky Sports 4 UK" tvg-logo="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png" group-title="Sport",Sky Sports 4 UK - Sky Sports 4 UK
+http://s02.kafic.info:80/live?channelId=141&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="368" tvg-name="Sky Sports 5 UK" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201408121889.png" group-title="Sport",Sky Sports 5 UK - Sky Sports 5 UK
+http://dreamsat.better-than.tv:80/live?channelId=368&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="151" tvg-name="Sky Sport F1 UK" tvg-logo="https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png" group-title="Sport",Sky Sport F1 UK - Sky Sport F1 UK
+http://s02.kafic.info:80/live?channelId=151&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="239" tvg-name="Sky Sport 1 IT" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD-1024x159.jpg" group-title="Sport",Sky Sport 1 IT - Sky Sport 1 IT
+http://s01.kafic.info:80/live?channelId=239&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="240" tvg-name="Sky Sport 2 IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2Lh_Mna8gZx-tnNEqQKDJt06xMuy7UQgsbVfcPub02zUZ-l2tg" group-title="Sport",Sky Sport 2 IT - Sky Sport 2 IT
+http://s01.kafic.info:80/live?channelId=240&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="241" tvg-name="Sky Sport 3 IT" tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png" group-title="Sport",Sky Sport 3 IT - Sky Sport 3 IT
+http://s01.kafic.info:80/live?channelId=241&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="242" tvg-name="Sky Sport F1 IT" tvg-logo="http://img2.wikia.nocookie.net/__cb20130902194359/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG" group-title="Sport",Sky Sport F1 IT - Sky Sport F1 IT
+http://s01.kafic.info:80/live?channelId=242&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="152" tvg-name="BT Sport 1 UK" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 UK - BT Sport 1 UK
+http://s02.kafic.info:80/live?channelId=152&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="153" tvg-name="BT Sport 2 UK" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 UK - BT Sport 2 UK
+http://s02.kafic.info:80/live?channelId=153&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="158" tvg-name="Sky Sport 1 DE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmi88jQ0QhULCu8IuTqiC4xx5M9BRg6wh6Z9htq1pc7Y8ZhMXN1S4Qzuk" group-title="Sport",Sky Sport 1 DE - Sky Sport 1 DE
+http://s02.kafic.info:80/live?channelId=158&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="159" tvg-name="Sky Sport 2 DE" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbzv3Fodx0VzDJ6OVc3FYgJ0PZ2AQP2SI4puvJ8yN4bgV7K9Q8cA" group-title="Sport",Sky Sport 2 DE - Sky Sport 2 DE
+http://s02.kafic.info:80/live?channelId=159&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="192" tvg-name="Sky Fussball Bundesliga DE" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Sport",Sky Fussball Bundesliga DE - Sky Fussball Bundesliga DE
+http://s02.kafic.info:80/live?channelId=192&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sports 1 - Bein Sports 1
+http://s02.kafic.info:80/live?channelId=142&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="143" tvg-name="Bein Sports 2" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",Bein Sports 2 - Bein Sports 2
+http://s02.kafic.info:80/live?channelId=143&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sports 3 - Bein Sports 3
+http://s02.kafic.info:80/live?channelId=144&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 4" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",Bein Sports 4 - Bein Sports 4
+http://s02.kafic.info:80/live?channelId=145&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sports 5 - Bein Sports 5
+http://s02.kafic.info:80/live?channelId=147&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 6" tvg-logo="http://www.new-tubes.net/file/2015/01/bein-sport-hd6.jpg" group-title="Sport",Bein Sports 6 - Bein Sports 6
+http://s02.kafic.info:80/live?channelId=146&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 7" tvg-logo="http://tgo-tv.com/images/tv/beIN7.jpg" group-title="Sport",Bein Sports 7 - Bein Sports 7
+http://s02.kafic.info:80/live?channelId=148&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 8" tvg-logo="http://www.teledusat.com/uploads/articles/10e6fe68.jpg" group-title="Sport",Bein Sports 8 - Bein Sports 8
+http://s02.kafic.info:80/live?channelId=149&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="150" tvg-name="Bein Sports 9" tvg-logo="http://www.teledusat.com/uploads/articles/272f78eb.jpg" group-title="Sport",Bein Sports 9 - Bein Sports 9
+http://s02.kafic.info:80/live?channelId=150&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="154" tvg-name="FOX Sports 1 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="Sport",FOX Sports 1 (Nl) - FOX Sports 1 (Nl)
+http://s02.kafic.info:80/live?channelId=154&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="155" tvg-name="FOX Sports 2 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 (Nl) - FOX Sports 2 (Nl)
+http://s02.kafic.info:80/live?channelId=155&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="156" tvg-name="FOX Sports 3 (Nl)" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png" group-title="Sport",FOX Sports 3 (Nl) - FOX Sports 3 (Nl)
+http://s02.kafic.info:80/live?channelId=156&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="157" tvg-name="FOX Sports 4 (Nl)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png" group-title="Sport",FOX Sports 4 (Nl) - FOX Sports 4 (Nl)
+http://s02.kafic.info:80/live?channelId=157&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="369" tvg-name="Digi Sport 1 (Ro)" tvg-logo="http://1.bp.blogspot.com/-7Lxnhk_bXMQ/UCdnpNqkX3I/AAAAAAAAIeE/0av9PPgR5uE/s1600/digi_sport1.png" group-title="Sport",Digi Sport 1 (Ro) - Digi Sport 1 (Ro)
+http://dreamsat.better-than.tv:80/live?channelId=369&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="370" tvg-name="Digi Sport 2 (Ro)" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-2.png" group-title="Sport",Digi Sport 2 (Ro) - Digi Sport 2 (Ro)
+http://dreamsat.better-than.tv:80/live?channelId=370&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="371" tvg-name="Digi Sport 3 (Ro)" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-3.png" group-title="Sport",Digi Sport 3 (Ro) - Digi Sport 3 (Ro)
+http://dreamsat.better-than.tv:80/live?channelId=371&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="268" tvg-name="ESPN UK" tvg-logo="/noicon.png" group-title="Sport",ESPN UK - ESPN UK
+http://dreamsat.better-than.tv:80/live?channelId=268&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="270" tvg-name="CANAL+ Sport (Fr)" tvg-logo="/noicon.png" group-title="Sport",CANAL+ Sport (Fr) - CANAL+ Sport (Fr)
+http://dreamsat.better-than.tv:80/live?channelId=270&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="271" tvg-name="Setanta Sports 1 UK" tvg-logo="https://secure.setantasubs.com/images/setanta-logo.png" group-title="Sport",Setanta Sports 1 UK - Setanta Sports 1 UK
+http://s01.kafic.info:80/live?channelId=271&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="269" tvg-name="Sportska TV" tvg-logo="http://kaportal.hr/kasarhiva/wp-content/uploads/2012/11/2D_Plavi.jpg" group-title="Sport",Sportska TV - Sportska TV
+http://dreamsat.better-than.tv:80/live?channelId=269&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="160" tvg-name="Motors TV UK" tvg-logo="http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg" group-title="Sport",Motors TV UK - Motors TV UK
+http://s02.kafic.info:80/live?channelId=160&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="161" tvg-name="Fight Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fight_Channel_World_logo.png/176px-Fight_Channel_World_logo.png" group-title="Sport",Fight Channel - Fight Channel
+http://s02.kafic.info:80/live?channelId=161&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="162" tvg-name="Real Madrid TV (Spa)" tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="Sport",Real Madrid TV (Spa) - Real Madrid TV (Spa)
+http://s02.kafic.info:80/live?channelId=162&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="163" tvg-name="Barca TV (Spa)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="Sport",Barca TV (Spa) - Barca TV (Spa)
+http://s02.kafic.info:80/live?channelId=163&uid=2107&deviceUser=606Info&devicePass=606Info
 #EXTINF:-1 tvg-id="1" tvg-name="******Hrvatska******" tvg-logo="http://img1.iwascoding.com/4/paid/2014/06/05/D0/77844DE5758E4F1EBC2A3148430E2D47.jpg" group-title="Domaci",******Hrvatska****** - ******Hrvatska******
 http://dreamsat.better-than.tv:80/live?channelId=1&uid=2107&deviceUser=606Info&devicePass=606Info
 #EXTINF:-1 tvg-id="2" tvg-name="HRT 1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Domaci",HRT 1 - HRT 1
@@ -313,128 +435,6 @@ http://dreamsat2.better-than.tv:80/live?channelId=274&uid=2107&deviceUser=606Inf
 http://dreamsat.better-than.tv:80/live?channelId=272&uid=2107&deviceUser=606Info&devicePass=606Info
 #EXTINF:-1 tvg-id="350" tvg-name="Baby TV" tvg-logo="/noicon.png" group-title="Kids",Baby TV - Baby TV
 http://dreamsat2.better-than.tv:80/live?channelId=350&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="119" tvg-name="***** Sport *****" tvg-logo="/noicon.png" group-title="Sport",***** Sport ***** - ***** Sport *****
-http://dreamsat.better-than.tv:80/live?channelId=119&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="120" tvg-name="Sport Klub 1 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 HR - Sport Klub 1 HR
-http://s01.kafic.info:80/live?channelId=120&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="121" tvg-name="Sport Klub 2 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk2-logo.png" group-title="Sport",Sport Klub 2 HR - Sport Klub 2 HR
-http://s01.kafic.info:80/live?channelId=121&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="122" tvg-name="Sport Klub 3 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk3-logo.png" group-title="Sport",Sport Klub 3 HR - Sport Klub 3 HR
-http://s01.kafic.info:80/live?channelId=122&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="123" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
-http://s01.kafic.info:80/live?channelId=123&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="124" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_2.png" group-title="Sport",Sport Klub 2 - Sport Klub 2
-http://s01.kafic.info:80/live?channelId=124&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="125" tvg-name="Sport Klub 3" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_3.png" group-title="Sport",Sport Klub 3 - Sport Klub 3
-http://s01.kafic.info:80/live?channelId=125&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="237" tvg-name="Sport klub 4" tvg-logo="http://media.port-network.com/picture/instance_2/510897_2.jpg" group-title="Sport",Sport klub 4 - Sport klub 4
-http://cms.kafic.info:80/live?channelId=237&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="238" tvg-name="Sport klub 5" tvg-logo="http://media.port-network.com/picture/instance_2/510898_2.jpg" group-title="Sport",Sport klub 5 - Sport klub 5
-http://cms.kafic.info:80/live?channelId=238&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="363" tvg-name="Sport klub 6" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2016/02/Sport-Klub-6.jpg" group-title="Sport",Sport klub 6 - Sport klub 6
-http://cms.kafic.info:80/live?channelId=363&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="126" tvg-name="Arena Sport 1 HR" tvg-logo="http://mportal.com.hr/files/uploads/images/440x700/arena_logo.gif" group-title="Sport",Arena Sport 1 HR - Arena Sport 1 HR
-http://cms.kafic.info:80/live?channelId=126&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="127" tvg-name="Arena Sport 2 HR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyDlypZFdgCXgPMI1HhB3i6kNjpF4ttJD8H_z1pCzrQwjvMMR" group-title="Sport",Arena Sport 2 HR - Arena Sport 2 HR
-http://cms.kafic.info:80/live?channelId=127&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="128" tvg-name="Arena Sport 3 HR" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnF_lK9sjTcfnSMvCtXil7DCV_Ml3AnAaHnT2ZBcLQSw44aaU-a-R-t098" group-title="Sport",Arena Sport 3 HR - Arena Sport 3 HR
-http://cms.kafic.info:80/live?channelId=128&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="129" tvg-name="Arena Sport 4 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 4 HR - Arena Sport 4 HR
-http://cms.kafic.info:80/live?channelId=129&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="130" tvg-name="Arena Sport 5 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 5 HR - Arena Sport 5 HR
-http://cms.kafic.info:80/live?channelId=130&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="131" tvg-name="Arena Sport 1" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport1_rs.png" group-title="Sport",Arena Sport 1 - Arena Sport 1
-http://cms.kafic.info:80/live?channelId=131&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="132" tvg-name="Arena Sport 2" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport2_rs.png" group-title="Sport",Arena Sport 2 - Arena Sport 2
-http://cms.kafic.info:80/live?channelId=132&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="133" tvg-name="Arena Sport 3" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport3_rs.png" group-title="Sport",Arena Sport 3 - Arena Sport 3
-http://cms.kafic.info:80/live?channelId=133&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="134" tvg-name="Arena Sport 4" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport5_rs.png" group-title="Sport",Arena Sport 4 - Arena Sport 4
-http://cms.kafic.info:80/live?channelId=134&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="135" tvg-name="Arena Sport 5" tvg-logo="http://www.bhb.ba/upload/images/files.jpg" group-title="Sport",Arena Sport 5 - Arena Sport 5
-http://cms.kafic.info:80/live?channelId=135&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="136" tvg-name="Eurosport 1" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport-logo.png" group-title="Sport",Eurosport 1 - Eurosport 1
-http://s02.kafic.info:80/live?channelId=136&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="137" tvg-name="Eurosport 2" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport2-logo.png" group-title="Sport",Eurosport 2 - Eurosport 2
-http://s02.kafic.info:80/live?channelId=137&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="138" tvg-name="Sky Sports 1 UK" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzAf4aQS8L2lNlFkoycS2VeaNzEAwWOIKryVBCBKXHIrr4ST0w89GdhVbo" group-title="Sport",Sky Sports 1 UK - Sky Sports 1 UK
-http://s02.kafic.info:80/live?channelId=138&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="139" tvg-name="Sky Sports 2 UK" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png" group-title="Sport",Sky Sports 2 UK - Sky Sports 2 UK
-http://s02.kafic.info:80/live?channelId=139&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="140" tvg-name="Sky Sports 3 UK" tvg-logo="http://img2.wikia.nocookie.net/__cb20110206223105/logopedia/images/0/06/Sky_Sport_3_HD_Italy_2010.svg" group-title="Sport",Sky Sports 3 UK - Sky Sports 3 UK
-http://s02.kafic.info:80/live?channelId=140&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="141" tvg-name="Sky Sports 4 UK" tvg-logo="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png" group-title="Sport",Sky Sports 4 UK - Sky Sports 4 UK
-http://s02.kafic.info:80/live?channelId=141&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="368" tvg-name="Sky Sports 5 UK" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201408121889.png" group-title="Sport",Sky Sports 5 UK - Sky Sports 5 UK
-http://dreamsat.better-than.tv:80/live?channelId=368&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="151" tvg-name="Sky Sport F1 UK" tvg-logo="https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png" group-title="Sport",Sky Sport F1 UK - Sky Sport F1 UK
-http://s02.kafic.info:80/live?channelId=151&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="239" tvg-name="Sky Sport 1 IT" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD-1024x159.jpg" group-title="Sport",Sky Sport 1 IT - Sky Sport 1 IT
-http://s01.kafic.info:80/live?channelId=239&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="240" tvg-name="Sky Sport 2 IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2Lh_Mna8gZx-tnNEqQKDJt06xMuy7UQgsbVfcPub02zUZ-l2tg" group-title="Sport",Sky Sport 2 IT - Sky Sport 2 IT
-http://s01.kafic.info:80/live?channelId=240&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="241" tvg-name="Sky Sport 3 IT" tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png" group-title="Sport",Sky Sport 3 IT - Sky Sport 3 IT
-http://s01.kafic.info:80/live?channelId=241&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="242" tvg-name="Sky Sport F1 IT" tvg-logo="http://img2.wikia.nocookie.net/__cb20130902194359/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG" group-title="Sport",Sky Sport F1 IT - Sky Sport F1 IT
-http://s01.kafic.info:80/live?channelId=242&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="152" tvg-name="BT Sport 1 UK" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 UK - BT Sport 1 UK
-http://s02.kafic.info:80/live?channelId=152&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="153" tvg-name="BT Sport 2 UK" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 UK - BT Sport 2 UK
-http://s02.kafic.info:80/live?channelId=153&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="158" tvg-name="Sky Sport 1 DE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmi88jQ0QhULCu8IuTqiC4xx5M9BRg6wh6Z9htq1pc7Y8ZhMXN1S4Qzuk" group-title="Sport",Sky Sport 1 DE - Sky Sport 1 DE
-http://s02.kafic.info:80/live?channelId=158&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="159" tvg-name="Sky Sport 2 DE" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbzv3Fodx0VzDJ6OVc3FYgJ0PZ2AQP2SI4puvJ8yN4bgV7K9Q8cA" group-title="Sport",Sky Sport 2 DE - Sky Sport 2 DE
-http://s02.kafic.info:80/live?channelId=159&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="192" tvg-name="Sky Fussball Bundesliga DE" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Sport",Sky Fussball Bundesliga DE - Sky Fussball Bundesliga DE
-http://s02.kafic.info:80/live?channelId=192&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sports 1 - Bein Sports 1
-http://s02.kafic.info:80/live?channelId=142&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="143" tvg-name="Bein Sports 2" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",Bein Sports 2 - Bein Sports 2
-http://s02.kafic.info:80/live?channelId=143&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sports 3 - Bein Sports 3
-http://s02.kafic.info:80/live?channelId=144&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 4" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",Bein Sports 4 - Bein Sports 4
-http://s02.kafic.info:80/live?channelId=145&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sports 5 - Bein Sports 5
-http://s02.kafic.info:80/live?channelId=147&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 6" tvg-logo="http://www.new-tubes.net/file/2015/01/bein-sport-hd6.jpg" group-title="Sport",Bein Sports 6 - Bein Sports 6
-http://s02.kafic.info:80/live?channelId=146&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 7" tvg-logo="http://tgo-tv.com/images/tv/beIN7.jpg" group-title="Sport",Bein Sports 7 - Bein Sports 7
-http://s02.kafic.info:80/live?channelId=148&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 8" tvg-logo="http://www.teledusat.com/uploads/articles/10e6fe68.jpg" group-title="Sport",Bein Sports 8 - Bein Sports 8
-http://s02.kafic.info:80/live?channelId=149&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="150" tvg-name="Bein Sports 9" tvg-logo="http://www.teledusat.com/uploads/articles/272f78eb.jpg" group-title="Sport",Bein Sports 9 - Bein Sports 9
-http://s02.kafic.info:80/live?channelId=150&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="154" tvg-name="FOX Sports 1 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="Sport",FOX Sports 1 (Nl) - FOX Sports 1 (Nl)
-http://s02.kafic.info:80/live?channelId=154&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="155" tvg-name="FOX Sports 2 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 (Nl) - FOX Sports 2 (Nl)
-http://s02.kafic.info:80/live?channelId=155&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="156" tvg-name="FOX Sports 3 (Nl)" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png" group-title="Sport",FOX Sports 3 (Nl) - FOX Sports 3 (Nl)
-http://s02.kafic.info:80/live?channelId=156&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="157" tvg-name="FOX Sports 4 (Nl)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png" group-title="Sport",FOX Sports 4 (Nl) - FOX Sports 4 (Nl)
-http://s02.kafic.info:80/live?channelId=157&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="369" tvg-name="Digi Sport 1 (Ro)" tvg-logo="http://1.bp.blogspot.com/-7Lxnhk_bXMQ/UCdnpNqkX3I/AAAAAAAAIeE/0av9PPgR5uE/s1600/digi_sport1.png" group-title="Sport",Digi Sport 1 (Ro) - Digi Sport 1 (Ro)
-http://dreamsat.better-than.tv:80/live?channelId=369&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="370" tvg-name="Digi Sport 2 (Ro)" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-2.png" group-title="Sport",Digi Sport 2 (Ro) - Digi Sport 2 (Ro)
-http://dreamsat.better-than.tv:80/live?channelId=370&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="371" tvg-name="Digi Sport 3 (Ro)" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-3.png" group-title="Sport",Digi Sport 3 (Ro) - Digi Sport 3 (Ro)
-http://dreamsat.better-than.tv:80/live?channelId=371&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="268" tvg-name="ESPN UK" tvg-logo="/noicon.png" group-title="Sport",ESPN UK - ESPN UK
-http://dreamsat.better-than.tv:80/live?channelId=268&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="270" tvg-name="CANAL+ Sport (Fr)" tvg-logo="/noicon.png" group-title="Sport",CANAL+ Sport (Fr) - CANAL+ Sport (Fr)
-http://dreamsat.better-than.tv:80/live?channelId=270&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="271" tvg-name="Setanta Sports 1 UK" tvg-logo="https://secure.setantasubs.com/images/setanta-logo.png" group-title="Sport",Setanta Sports 1 UK - Setanta Sports 1 UK
-http://s01.kafic.info:80/live?channelId=271&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="269" tvg-name="Sportska TV" tvg-logo="http://kaportal.hr/kasarhiva/wp-content/uploads/2012/11/2D_Plavi.jpg" group-title="Sport",Sportska TV - Sportska TV
-http://dreamsat.better-than.tv:80/live?channelId=269&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="160" tvg-name="Motors TV UK" tvg-logo="http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg" group-title="Sport",Motors TV UK - Motors TV UK
-http://s02.kafic.info:80/live?channelId=160&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="161" tvg-name="Fight Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fight_Channel_World_logo.png/176px-Fight_Channel_World_logo.png" group-title="Sport",Fight Channel - Fight Channel
-http://s02.kafic.info:80/live?channelId=161&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="162" tvg-name="Real Madrid TV (Spa)" tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="Sport",Real Madrid TV (Spa) - Real Madrid TV (Spa)
-http://s02.kafic.info:80/live?channelId=162&uid=2107&deviceUser=606Info&devicePass=606Info
-#EXTINF:-1 tvg-id="163" tvg-name="Barca TV (Spa)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="Sport",Barca TV (Spa) - Barca TV (Spa)
-http://s02.kafic.info:80/live?channelId=163&uid=2107&deviceUser=606Info&devicePass=606Info
 #EXTINF:-1 tvg-id="164" tvg-name="***** Deutsch *****" tvg-logo="http://www.kf-kosova.de/images/deutsch-logo.png" group-title="Deutsch",***** Deutsch ***** - ***** Deutsch *****
 http://s02.kafic.info:80/live?channelId=164&uid=2107&deviceUser=606Info&devicePass=606Info
 #EXTINF:-1 tvg-id="165" tvg-name="RTL DE" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtl_hd_de.png" group-title="Deutsch",RTL DE - RTL DE
