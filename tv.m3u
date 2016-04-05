@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.serbianforum.org/epg.xml.gz" cache=500 deinterlace=1 tvg-shift=+1
 #EXTINF:-1 tvg-id="1" tvg-name="******Hrvatska******" tvg-logo="http://img1.iwascoding.com/4/paid/2014/06/05/D0/77844DE5758E4F1EBC2A3148430E2D47.jpg" group-title="Domaci",******Hrvatska****** - ******Hrvatska******
 http://dreamsat.better-than.tv:80/live?channelId=1&uid=2107&deviceUser=606Info&devicePass=606Info
 #EXTINF:-1 tvg-id="2" tvg-name="HRT 1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Domaci",HRT 1 - HRT 1
