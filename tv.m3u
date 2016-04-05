@@ -1,0 +1,793 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="******Hrvatska******" tvg-logo="http://img1.iwascoding.com/4/paid/2014/06/05/D0/77844DE5758E4F1EBC2A3148430E2D47.jpg" group-title="Domaci",******Hrvatska****** - ******Hrvatska******
+http://dreamsat.better-than.tv:80/live?channelId=1&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="2" tvg-name="HRT 1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Domaci",HRT 1 - HRT 1
+http://s01.kafic.info:80/live?channelId=2&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="3" tvg-name="HRT 2" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt2.png" group-title="Domaci",HRT 2 - HRT 2
+http://s01.kafic.info:80/live?channelId=3&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="4" tvg-name="HRT 3" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt3.png" group-title="Domaci",HRT 3 - HRT 3
+http://s01.kafic.info:80/live?channelId=4&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="5" tvg-name="HRT 4" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt4.png" group-title="Domaci",HRT 4 - HRT 4
+http://s01.kafic.info:80/live?channelId=5&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="6" tvg-name="Nova TV" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/nova_tv.png" group-title="Domaci",Nova TV - Nova TV
+http://s01.kafic.info:80/live?channelId=6&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="7" tvg-name="Doma Tv" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/doma_tv.png" group-title="Domaci",Doma Tv - Doma Tv
+http://cms.kafic.info:80/live?channelId=7&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="8" tvg-name="RTL" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/rtl.png" group-title="Domaci",RTL - RTL
+http://cms.kafic.info:80/live?channelId=8&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="9" tvg-name="RTL 2" tvg-logo="https://www.google.ba/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjax_L2ouHJAhVCPRQKHaRSC7cQjRwIBw&url=http%3A%2F%2Ftvprofil.net%2Fkanali%2Fkanal%2Frtl2&psig=AFQjCNH3Snd85ARrkoudRso9b0WRKS-erg&ust=1450385971773540" group-title="Domaci",RTL 2 - RTL 2
+http://s01.kafic.info:80/live?channelId=9&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="442" tvg-name="RTL Crime" tvg-logo="http://4.bp.blogspot.com/-DhB-0XAlLEA/VQNIcJQvguI/AAAAAAAAATM/ueyQ56S_WgI/s1600/RTL-Crime1.png" group-title="Domaci",RTL Crime - RTL Crime
+http://dreamsat.better-than.tv:80/live?channelId=442&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="10" tvg-name="RTL Living" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/rtl_living.png" group-title="Domaci",RTL Living - RTL Living
+http://cms.kafic.info:80/live?channelId=10&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="443" tvg-name="RTL Passion" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Passion_2006.svg/300px-Logo_Passion_2006.svg.png" group-title="Domaci",RTL Passion - RTL Passion
+http://s01.kafic.info:80/live?channelId=443&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="430" tvg-name="Osječka TV" tvg-logo="http://www.osijek031.com/slike/novosti_2008_11/2008_11_17_ostv_logo_200x200_2.png" group-title="Domaci",Osječka TV - Osječka TV
+http://dreamsat.better-than.tv:80/live?channelId=430&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="431" tvg-name="Slavonska TV" tvg-logo="http://tvprofil.net/img/kanali-logo/stv-logo.png" group-title="Domaci",Slavonska TV - Slavonska TV
+http://dreamsat.better-than.tv:80/live?channelId=431&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="432" tvg-name="Vinkovačka TV" tvg-logo="http://tvprofil.net/img/kanali-logo/vinkovacka-tv-logo.png" group-title="Domaci",Vinkovačka TV - Vinkovačka TV
+http://dreamsat.better-than.tv:80/live?channelId=432&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="11" tvg-name="CMC" tvg-logo="http://esso.bossna-caffe.com/logos/cmc-logo.png" group-title="Domaci",CMC - CMC
+http://cms.kafic.info:80/live?channelId=11&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="12" tvg-name="Banovina TV" tvg-logo="http://esso.bossna-caffe.com/logos/cro/logo_rtv%20banovina%20hr.png" group-title="Domaci",Banovina TV - Banovina TV
+http://cms.kafic.info:80/live?channelId=12&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="13" tvg-name="*****Bosna*****" tvg-logo="http://previews.123rf.com/images/Suljo/Suljo0710/Suljo071000025/1877563-Winkenden-Flagge-von-Bosnien-und-Herzegowina-isoliert-auf-wei-em--Lizenzfreie-Bilder.jpg" group-title="Domaci",*****Bosna***** - *****Bosna*****
+http://dreamsat.better-than.tv:80/live?channelId=13&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="14" tvg-name="BHT 1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/bht1.png" group-title="Domaci",BHT 1 - BHT 1
+http://s01.kafic.info:80/live?channelId=14&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="15" tvg-name="Federalna TV" tvg-logo="http://nextgen-iptv.com/Logos/bih/ftv.png" group-title="Domaci",Federalna TV - Federalna TV
+http://cms.kafic.info:80/live?channelId=15&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="16" tvg-name="Tv Sarajevo" tvg-logo="http://nextgen-iptv.com/Logos/bih/tv_sarajevo.png" group-title="Domaci",Tv Sarajevo - Tv Sarajevo
+http://cms.kafic.info:80/live?channelId=16&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="17" tvg-name="Al Jazeera Balkans" tvg-logo="http://nextgen-iptv.com/Logos/bih/al_jazeera_balkans.png" group-title="Domaci",Al Jazeera Balkans - Al Jazeera Balkans
+http://cms.kafic.info:80/live?channelId=17&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="18" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/Logos/bih/a_tv_ba.png" group-title="Domaci",ATV - ATV
+http://cms.kafic.info:80/live?channelId=18&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="19" tvg-name="Face TV" tvg-logo="http://nextgen-iptv.com/Logos/bih/face_tv_ba.png" group-title="Domaci",Face TV - Face TV
+http://cms.kafic.info:80/live?channelId=19&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="20" tvg-name="TK" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/tk-logo.png" group-title="Domaci",TK - TK
+http://s01.kafic.info:80/live?channelId=20&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="21" tvg-name="Hayat TV" tvg-logo="http://nextgen-iptv.com/Logos/bih/hayat_ba.png" group-title="Domaci",Hayat TV - Hayat TV
+http://cms.kafic.info:80/live?channelId=21&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="435" tvg-name="Hayat Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/bs/1/1a/Logo_hayat_tv_sat_plus.png" group-title="Domaci",Hayat Plus - Hayat Plus
+http://s01.kafic.info:80/live?channelId=435&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="436" tvg-name="Hayat Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Logo_of_Hayat_Music_TV.png" group-title="Domaci",Hayat Music - Hayat Music
+http://s01.kafic.info:80/live?channelId=436&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="22" tvg-name="Hayat Folk" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/hayat_ba.png" group-title="Domaci",Hayat Folk - Hayat Folk
+http://cms.kafic.info:80/live?channelId=22&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="23" tvg-name="N1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/n1_rs.png" group-title="Domaci",N1 - N1
+http://cms.kafic.info:80/live?channelId=23&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="24" tvg-name="OBN" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/obn_ba.png" group-title="Domaci",OBN - OBN
+http://cms.kafic.info:80/live?channelId=24&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="25" tvg-name="Valentino TV" tvg-logo="/noicon.png" group-title="Domaci",Valentino TV - Valentino TV
+http://cms.kafic.info:80/live?channelId=25&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="26" tvg-name="Izvorna TV" tvg-logo="/noicon.png" group-title="Domaci",Izvorna TV - Izvorna TV
+http://cms.kafic.info:80/live?channelId=26&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="27" tvg-name="Dm Sat" tvg-logo="/noicon.png" group-title="Domaci",Dm Sat - Dm Sat
+http://cms.kafic.info:80/live?channelId=27&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="28" tvg-name="MTV Igman" tvg-logo="http://nextgen-iptv.com/Logos/bih/mtv_igman.png" group-title="Domaci",MTV Igman - MTV Igman
+http://s01.kafic.info:80/live?channelId=28&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="29" tvg-name="BN" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/bn_televizija.png" group-title="Domaci",BN - BN
+http://cms.kafic.info:80/live?channelId=29&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="30" tvg-name="BN Music" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/bn_televizija.png" group-title="Domaci",BN Music - BN Music
+http://cms.kafic.info:80/live?channelId=30&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="31" tvg-name="RTV Zenica" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/rtv_zenica_ba.png" group-title="Domaci",RTV Zenica - RTV Zenica
+http://cms.kafic.info:80/live?channelId=31&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="32" tvg-name="Posavina Tv" tvg-logo="http://nextgen-iptv.com/Logos/bih/posavina_tv_ba.png" group-title="Domaci",Posavina Tv - Posavina Tv
+http://cms.kafic.info:80/live?channelId=32&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="33" tvg-name="Duga Tv" tvg-logo="/noicon.png" group-title="Domaci",Duga Tv - Duga Tv
+http://cms.kafic.info:80/live?channelId=33&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="375" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV1_Bosnia_and_Herzegovina_logo.jpg" group-title="Domaci",TV1 - TV1
+http://dreamsat.better-than.tv:80/live?channelId=375&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="449" tvg-name="RTV Mir" tvg-logo="/noicon.png" group-title="Domaci",RTV Mir - RTV Mir
+http://cms.kafic.info:80/live?channelId=449&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="34" tvg-name="*****Srbija*****" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/150px-Flag_of_Serbia.svg.png" group-title="Domaci",*****Srbija***** - *****Srbija*****
+http://dreamsat.better-than.tv:80/live?channelId=34&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="35" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_1.png" group-title="Domaci",RTS 1 - RTS 1
+http://cms.kafic.info:80/live?channelId=35&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="36" tvg-name="RTS 2" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_2.png" group-title="Domaci",RTS 2 - RTS 2
+http://s01.kafic.info:80/live?channelId=36&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="37" tvg-name="RTS Sat" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_hd.png" group-title="Domaci",RTS Sat - RTS Sat
+http://cms.kafic.info:80/live?channelId=37&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="38" tvg-name="B92" tvg-logo="http://nextgen-iptv.com/Logos/srb/b92_rs_tv.png" group-title="Domaci",B92 - B92
+http://cms.kafic.info:80/live?channelId=38&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="39" tvg-name="Nova Rs" tvg-logo="http://nextgen-iptv.com/Logos/srb/nova_rs.png" group-title="Domaci",Nova Rs - Nova Rs
+http://cms.kafic.info:80/live?channelId=39&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="40" tvg-name="Prva" tvg-logo="http://nextgen-iptv.com/Logos/srb/prva_rs.png" group-title="Domaci",Prva - Prva
+http://s01.kafic.info:80/live?channelId=40&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="41" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/Logos/srb/prva_plus_rs.png" group-title="Domaci",Prva Plus - Prva Plus
+http://cms.kafic.info:80/live?channelId=41&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="223" tvg-name="Happy TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a3/Happy_tv_new_logo.png/revision/latest?cb=20140425115338" group-title="Domaci",Happy TV - Happy TV
+http://s02.kafic.info:80/live?channelId=223&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="42" tvg-name="RTRS" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_hd.png" group-title="Domaci",RTRS - RTRS
+http://cms.kafic.info:80/live?channelId=42&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="43" tvg-name="Grand Narodna TV" tvg-logo="/noicon.png" group-title="Domaci",Grand Narodna TV - Grand Narodna TV
+http://s01.kafic.info:80/live?channelId=43&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="44" tvg-name="Klasik TV" tvg-logo="/noicon.png" group-title="Domaci",Klasik TV - Klasik TV
+http://cms.kafic.info:80/live?channelId=44&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="224" tvg-name="RTV Novi Pazar" tvg-logo="/noicon.png" group-title="Domaci",RTV Novi Pazar - RTV Novi Pazar
+http://s01.kafic.info:80/live?channelId=224&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="45" tvg-name="RTV CG" tvg-logo="/noicon.png" group-title="Domaci",RTV CG - RTV CG
+http://cms.kafic.info:80/live?channelId=45&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="48" tvg-name="Balkanika" tvg-logo="/noicon.png" group-title="Domaci",Balkanika - Balkanika
+http://cms.kafic.info:80/live?channelId=48&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="451" tvg-name="M moja TV" tvg-logo="http://tvprofil.net/img/kanali-logo/Moja_TV_logo.png" group-title="Domaci",M moja TV - M moja TV
+http://dreamsat.better-than.tv:80/live?channelId=451&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="225" tvg-name="***** Makedonski *****" tvg-logo="/noicon.png" group-title="Domaci",***** Makedonski ***** - ***** Makedonski *****
+http://dreamsat.better-than.tv:80/live?channelId=225&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="426" tvg-name="MRT 1" tvg-logo="/noicon.png" group-title="Domaci",MRT 1 - MRT 1
+http://dreamsat.better-than.tv:80/live?channelId=426&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="427" tvg-name="MRT 2" tvg-logo="/noicon.png" group-title="Domaci",MRT 2 - MRT 2
+http://dreamsat.better-than.tv:80/live?channelId=427&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="226" tvg-name="Kanal 5" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0023/9690/brand.gif?itok=Egt1qx6k" group-title="Domaci",Kanal 5 - Kanal 5
+http://s01.kafic.info:80/live?channelId=226&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="227" tvg-name="Kanal 5+" tvg-logo="http://tvprofil.net/img/kanali-logo/kanal5-plus-logo.png" group-title="Domaci",Kanal 5+ - Kanal 5+
+http://s01.kafic.info:80/live?channelId=227&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="228" tvg-name="Sitel" tvg-logo="http://tvprofil.net/img/kanali-logo/sitel-logo.png" group-title="Domaci",Sitel - Sitel
+http://s01.kafic.info:80/live?channelId=228&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="229" tvg-name="Sitel 3" tvg-logo="http://mvljnski.home.xs4all.nl/images/sitel3.jpg" group-title="Domaci",Sitel 3 - Sitel 3
+http://s01.kafic.info:80/live?channelId=229&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="230" tvg-name="Telma" tvg-logo="http://mediapedia.mk/media/sliki/telma_logo_ySbReM9.jpg" group-title="Domaci",Telma - Telma
+http://s01.kafic.info:80/live?channelId=230&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="231" tvg-name="O2 Ohrid" tvg-logo="http://www.infel.net.mk/media/images/tv_channels/O2%20TV.JPG" group-title="Domaci",O2 Ohrid - O2 Ohrid
+http://s02.kafic.info:80/live?channelId=231&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="232" tvg-name="Mega Bitola" tvg-logo="http://www.jagledam.co/logo/logomegabitola.jpg" group-title="Domaci",Mega Bitola - Mega Bitola
+http://s01.kafic.info:80/live?channelId=232&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="233" tvg-name="A1 Strumica" tvg-logo="http://www.jagledam.co/logo/logoa1strumica.jpg" group-title="Domaci",A1 Strumica - A1 Strumica
+http://s01.kafic.info:80/live?channelId=233&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="234" tvg-name="K+ Stip" tvg-logo="/noicon.png" group-title="Domaci",K+ Stip - K+ Stip
+http://s02.kafic.info:80/live?channelId=234&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="235" tvg-name="Alsat M" tvg-logo="http://www.albkings.com/tvlogo/alsat.jpg" group-title="Domaci",Alsat M - Alsat M
+http://s02.kafic.info:80/live?channelId=235&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="236" tvg-name="Alfa" tvg-logo="http://tvprofil.net/img/kanali-logo/alfatvlogo.png" group-title="Domaci",Alfa - Alfa
+http://cms.kafic.info:80/live?channelId=236&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="49" tvg-name="*****PINK*****" tvg-logo="/noicon.png" group-title="Pink",*****PINK***** - *****PINK*****
+http://dreamsat.better-than.tv:80/live?channelId=49&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="50" tvg-name="Pink" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_1_rs.png" group-title="Pink",Pink - Pink
+http://cms.kafic.info:80/live?channelId=50&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="51" tvg-name="Pink BH" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_bh.png" group-title="Pink",Pink BH - Pink BH
+http://cms.kafic.info:80/live?channelId=51&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="52" tvg-name="Pink Plus" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_plus.png" group-title="Pink",Pink Plus - Pink Plus
+http://cms.kafic.info:80/live?channelId=52&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="53" tvg-name="Pink 2" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_2_rs.png" group-title="Pink",Pink 2 - Pink 2
+http://cms.kafic.info:80/live?channelId=53&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="54" tvg-name="Pink 3" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_3_info_rs.png" group-title="Pink",Pink 3 - Pink 3
+http://cms.kafic.info:80/live?channelId=54&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="55" tvg-name="Pink M" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_m.png" group-title="Pink",Pink M - Pink M
+http://cms.kafic.info:80/live?channelId=55&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="56" tvg-name="Pink Soap" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_soap_rs.png" group-title="Pink",Pink Soap - Pink Soap
+http://cms.kafic.info:80/live?channelId=56&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="57" tvg-name="Pink Action" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_action.png" group-title="Pink",Pink Action - Pink Action
+http://cms.kafic.info:80/live?channelId=57&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="58" tvg-name="Pink Film" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_film.png" group-title="Pink",Pink Film - Pink Film
+http://cms.kafic.info:80/live?channelId=58&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="59" tvg-name="Pink Folk 1" tvg-logo="/noicon.png" group-title="Pink",Pink Folk 1 - Pink Folk 1
+http://cms.kafic.info:80/live?channelId=59&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="60" tvg-name="Pink Folk 2" tvg-logo="/noicon.png" group-title="Pink",Pink Folk 2 - Pink Folk 2
+http://cms.kafic.info:80/live?channelId=60&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="61" tvg-name="Pink Premium" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_premium_rs.png" group-title="Pink",Pink Premium - Pink Premium
+http://cms.kafic.info:80/live?channelId=61&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="62" tvg-name="Pink Comedy" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_comedy_rs.png" group-title="Pink",Pink Comedy - Pink Comedy
+http://cms.kafic.info:80/live?channelId=62&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="63" tvg-name="Pink Horror" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pinkHorror.png" group-title="Pink",Pink Horror - Pink Horror
+http://cms.kafic.info:80/live?channelId=63&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="64" tvg-name="Pink Movies" tvg-logo="/noicon.png" group-title="Pink",Pink Movies - Pink Movies
+http://cms.kafic.info:80/live?channelId=64&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="65" tvg-name="Pink Crime & Mystery" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Crime_Mistery_logo.png" group-title="Pink",Pink Crime & Mystery - Pink Crime & Mystery
+http://cms.kafic.info:80/live?channelId=65&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="66" tvg-name="Pink World Cinema" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_world_rs.png" group-title="Pink",Pink World Cinema - Pink World Cinema
+http://cms.kafic.info:80/live?channelId=66&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="67" tvg-name="Pink Western" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink-western-logo.png" group-title="Pink",Pink Western - Pink Western
+http://cms.kafic.info:80/live?channelId=67&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="68" tvg-name="Pink Pedia" tvg-logo="/noicon.png" group-title="Pink",Pink Pedia - Pink Pedia
+http://cms.kafic.info:80/live?channelId=68&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="70" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_SciFi_Fantasy_logo.png" group-title="Pink",Pink Sci Fi & Fantasy - Pink Sci Fi & Fantasy
+http://cms.kafic.info:80/live?channelId=70&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="71" tvg-name="Pink Thriller" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Thriller_logo.png" group-title="Pink",Pink Thriller - Pink Thriller
+http://cms.kafic.info:80/live?channelId=71&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="72" tvg-name="Pink Zabava" tvg-logo="/noicon.png" group-title="Pink",Pink Zabava - Pink Zabava
+http://cms.kafic.info:80/live?channelId=72&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="73" tvg-name="Pink Music" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_music.png" group-title="Pink",Pink Music - Pink Music
+http://cms.kafic.info:80/live?channelId=73&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="74" tvg-name="Pink Romance" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Romance_logo.png" group-title="Pink",Pink Romance - Pink Romance
+http://cms.kafic.info:80/live?channelId=74&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="75" tvg-name="Pink Reality" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_reality_rs.png" group-title="Pink",Pink Reality - Pink Reality
+http://cms.kafic.info:80/live?channelId=75&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="433" tvg-name="Pink Kuvar" tvg-logo="/noicon.png" group-title="Pink",Pink Kuvar - Pink Kuvar
+http://dreamsat.better-than.tv:80/live?channelId=433&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="78" tvg-name="***** Film & serije *****" tvg-logo="/noicon.png" group-title="Film & Serije",***** Film & serije ***** - ***** Film & serije *****
+http://dreamsat.better-than.tv:80/live?channelId=78&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="79" tvg-name="HBO Adria" tvg-logo="http://esso.bossna-caffe.com/logos/HBO.png" group-title="Film & Serije",HBO Adria - HBO Adria
+http://s01.kafic.info:80/live?channelId=79&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="80" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Film & Serije",HBO 2 - HBO 2
+http://s01.kafic.info:80/live?channelId=80&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="81" tvg-name="CineStar TV" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_logo.png" group-title="Film & Serije",CineStar TV - CineStar TV
+http://s01.kafic.info:80/live?channelId=81&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="82" tvg-name="CineStar Premiere" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_1_logo.png" group-title="Film & Serije",CineStar Premiere - CineStar Premiere
+http://s01.kafic.info:80/live?channelId=82&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="83" tvg-name="CineStar Premiere 2" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_2_logo.png" group-title="Film & Serije",CineStar Premiere 2 - CineStar Premiere 2
+http://s01.kafic.info:80/live?channelId=83&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="84" tvg-name="CineStar Action & Thriller" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_action_logo.png" group-title="Film & Serije",CineStar Action & Thriller - CineStar Action & Thriller
+http://s01.kafic.info:80/live?channelId=84&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="85" tvg-name="Cinemax 1" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax-logo.png" group-title="Film & Serije",Cinemax 1 - Cinemax 1
+http://s01.kafic.info:80/live?channelId=85&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="86" tvg-name="Cinemax 2" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax2-logo.png" group-title="Film & Serije",Cinemax 2 - Cinemax 2
+http://s01.kafic.info:80/live?channelId=86&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="445" tvg-name="TV 1000" tvg-logo="/noicon.png" group-title="Film & Serije",TV 1000 - TV 1000
+http://s01.kafic.info:80/live?channelId=445&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="444" tvg-name="AXN" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/59/Axn_444_logo.png/revision/latest?cb=20140520122428" group-title="Film & Serije",AXN - AXN
+http://s01.kafic.info:80/live?channelId=444&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="446" tvg-name="M1 Film" tvg-logo="http://tvprofil.net/img/kanali-logo/m1film-logo.png" group-title="Film & Serije",M1 Film - M1 Film
+http://cms.kafic.info:80/live?channelId=446&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="448" tvg-name="MY Film" tvg-logo="/noicon.png" group-title="Film & Serije",MY Film - MY Film
+http://cms.kafic.info:80/live?channelId=448&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="447" tvg-name="Kino TV" tvg-logo="http://film-mag.net/wp/wp-content/uploads/2013/03/discovery_kino_tv2.jpg" group-title="Film & Serije",Kino TV - Kino TV
+http://cms.kafic.info:80/live?channelId=447&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="87" tvg-name="FOX" tvg-logo="http://esso.bossna-caffe.com/logos/fox-logo.png" group-title="Film & Serije",FOX - FOX
+http://s01.kafic.info:80/live?channelId=87&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="88" tvg-name="FOX Movies" tvg-logo="http://esso.bossna-caffe.com/logos/fox-movies-logo.png" group-title="Film & Serije",FOX Movies - FOX Movies
+http://s01.kafic.info:80/live?channelId=88&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="89" tvg-name="FOX Life" tvg-logo="http://esso.bossna-caffe.com/logos/fox-life-logo.PNG" group-title="Film & Serije",FOX Life - FOX Life
+http://s01.kafic.info:80/live?channelId=89&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="90" tvg-name="FOX Crime" tvg-logo="http://esso.bossna-caffe.com/logos/fox-crime-logo.png" group-title="Film & Serije",FOX Crime - FOX Crime
+http://s01.kafic.info:80/live?channelId=90&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="91" tvg-name="Sci Fi" tvg-logo="http://esso.bossna-caffe.com/logos/sci-fi-logo.png" group-title="Film & Serije",Sci Fi - Sci Fi
+http://s01.kafic.info:80/live?channelId=91&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="92" tvg-name="***** Doku & Style *****" tvg-logo="https://logo.next-tv.ml/Discovery_Channel.png" group-title="Doku & style",***** Doku & Style ***** - ***** Doku & Style *****
+http://dreamsat.better-than.tv:80/live?channelId=92&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="93" tvg-name="National Geographic" tvg-logo="http://esso.bossna-caffe.com/logos/nat-geographic-logo.png" group-title="Doku & style",National Geographic - National Geographic
+http://s01.kafic.info:80/live?channelId=93&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="94" tvg-name="Discovery Channel" tvg-logo="http://nextgen-iptv.com/Logos/doc/discovery-channel-logo.png" group-title="Doku & style",Discovery Channel - Discovery Channel
+http://s01.kafic.info:80/live?channelId=94&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="95" tvg-name="History Channel" tvg-logo="http://esso.bossna-caffe.com/logos/history-logo.png" group-title="Doku & style",History Channel - History Channel
+http://s01.kafic.info:80/live?channelId=95&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="456" tvg-name="History Channel 2" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS4C6yUCCplQefNCV60kAGIhfVQCOErUvDMG5DhcF4rIqiJtpsal9RPFF2qw" group-title="Doku & style",History Channel 2 - History Channel 2
+http://dreamsat.better-than.tv:80/live?channelId=456&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="342" tvg-name="Viasat Explorer" tvg-logo="/noicon.png" group-title="Doku & style",Viasat Explorer - Viasat Explorer
+http://dreamsat2.better-than.tv:80/live?channelId=342&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="343" tvg-name="Viasat History" tvg-logo="/noicon.png" group-title="Doku & style",Viasat History - Viasat History
+http://dreamsat2.better-than.tv:80/live?channelId=343&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="344" tvg-name="Viasat Nature" tvg-logo="/noicon.png" group-title="Doku & style",Viasat Nature - Viasat Nature
+http://dreamsat2.better-than.tv:80/live?channelId=344&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="97" tvg-name="Animal Planet" tvg-logo="http://esso.bossna-caffe.com/logos/animal-planet-logo.PNG" group-title="Doku & style",Animal Planet - Animal Planet
+http://s01.kafic.info:80/live?channelId=97&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="96" tvg-name="Crime & Investigation" tvg-logo="http://esso.bossna-caffe.com/logos/crime%20and%20investigation.png" group-title="Doku & style",Crime & Investigation - Crime & Investigation
+http://s01.kafic.info:80/live?channelId=96&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="98" tvg-name="E!" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkBktAKNcP9jMSIEfv7tgtEuF9UqUetcKv73grBXgW8lYmwsBOsxO2I2v6" group-title="Doku & style",E! - E!
+http://s01.kafic.info:80/live?channelId=98&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="100" tvg-name="TLC" tvg-logo="http://esso.bossna-caffe.com/logos/tlc-logo.png" group-title="Doku & style",TLC - TLC
+http://s01.kafic.info:80/live?channelId=100&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="454" tvg-name="CBS Reality" tvg-logo="/noicon.png" group-title="Doku & style",CBS Reality - CBS Reality
+http://dreamsat.better-than.tv:80/live?channelId=454&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="455" tvg-name="Comedy Central Extra" tvg-logo="/noicon.png" group-title="Doku & style",Comedy Central Extra - Comedy Central Extra
+http://dreamsat.better-than.tv:80/live?channelId=455&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="99" tvg-name="24 Kitchen" tvg-logo="http://esso.bossna-caffe.com/logos/24-kitchen-logo.png" group-title="Doku & style",24 Kitchen - 24 Kitchen
+http://s01.kafic.info:80/live?channelId=99&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="101" tvg-name="Lov i Ribolov" tvg-logo="http://esso.bossna-caffe.com/logos/lov_i_ribolov.png" group-title="Doku & style",Lov i Ribolov - Lov i Ribolov
+http://s01.kafic.info:80/live?channelId=101&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="346" tvg-name="NASA TV" tvg-logo="/noicon.png" group-title="Doku & style",NASA TV - NASA TV
+http://dreamsat2.better-than.tv:80/live?channelId=346&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="102" tvg-name="MTV Adria" tvg-logo="http://img4.wikia.nocookie.net/__cb20100310170640/logopedia/images/0/0f/MTV_Hits_UK_2007.svg" group-title="Doku & style",MTV Adria - MTV Adria
+http://s01.kafic.info:80/live?channelId=102&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="103" tvg-name="MTV Dance" tvg-logo="http://esso.bossna-caffe.com/logos/mtv-dance-logo.png" group-title="Doku & style",MTV Dance - MTV Dance
+http://s01.kafic.info:80/live?channelId=103&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="104" tvg-name="VH1" tvg-logo="http://esso.bossna-caffe.com/logos/vh1-logo.png" group-title="Doku & style",VH1 - VH1
+http://s01.kafic.info:80/live?channelId=104&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="105" tvg-name="Vevo 1" tvg-logo="http://esso.bossna-caffe.com/logos/vevo.png" group-title="Doku & style",Vevo 1 - Vevo 1
+http://s01.kafic.info:80/live?channelId=105&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="106" tvg-name="Vevo 2" tvg-logo="http://esso.bossna-caffe.com/logos/vevo2.jpg" group-title="Doku & style",Vevo 2 - Vevo 2
+http://s01.kafic.info:80/live?channelId=106&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="349" tvg-name="Jugoton TV" tvg-logo="/noicon.png" group-title="Doku & style",Jugoton TV - Jugoton TV
+http://dreamsat2.better-than.tv:80/live?channelId=349&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="434" tvg-name="TOP MUSIC" tvg-logo="/noicon.png" group-title="Doku & style",TOP MUSIC - TOP MUSIC
+http://cms.kafic.info:80/live?channelId=434&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="115" tvg-name="***** Kids *****" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",***** Kids ***** - ***** Kids *****
+http://dreamsat.better-than.tv:80/live?channelId=115&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="107" tvg-name="RTL Kockica" tvg-logo="http://esso.bossna-caffe.com/logos/rtl-kockica-logo.png" group-title="Domaci",RTL Kockica - RTL Kockica
+http://s01.kafic.info:80/live?channelId=107&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="110" tvg-name="Nickelodeon" tvg-logo="http://esso.bossna-caffe.com/logos/nickelodeon-logo.png" group-title="Kids",Nickelodeon - Nickelodeon
+http://s01.kafic.info:80/live?channelId=110&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="111" tvg-name="Mini TV" tvg-logo="http://esso.bossna-caffe.com/logos/minitv-logo.png" group-title="Kids",Mini TV - Mini TV
+http://s01.kafic.info:80/live?channelId=111&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="112" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/6/6f/Minimax_TV.png" group-title="Kids",Minimax - Minimax
+http://s01.kafic.info:80/live?channelId=112&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="108" tvg-name="Hayatovci" tvg-logo="http://nextgen-iptv.com/Logos/kid/hayatovci-logo.png" group-title="Domaci",Hayatovci - Hayatovci
+http://s01.kafic.info:80/live?channelId=108&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="69" tvg-name="Pink Kids" tvg-logo="/noicon.png" group-title="Kids",Pink Kids - Pink Kids
+http://cms.kafic.info:80/live?channelId=69&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="450" tvg-name="Pink Super Kids" tvg-logo="http://tvprofil.net/img/kanali-logo/PinkSuperKids_logo.png" group-title="Pink",Pink Super Kids - Pink Super Kids
+http://s01.kafic.info:80/live?channelId=450&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="114" tvg-name="Disney Channel UK" tvg-logo="http://esso.bossna-caffe.com/logos/disney_channel_global.png" group-title="Kids",Disney Channel UK - Disney Channel UK
+http://s01.kafic.info:80/live?channelId=114&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="116" tvg-name="Disney Jr. UK" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",Disney Jr. UK - Disney Jr. UK
+http://s01.kafic.info:80/live?channelId=116&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="117" tvg-name="Disney XD UK" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",Disney XD UK - Disney XD UK
+http://s01.kafic.info:80/live?channelId=117&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="118" tvg-name="Cartoon Network UK" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",Cartoon Network UK - Cartoon Network UK
+http://s01.kafic.info:80/live?channelId=118&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="274" tvg-name="Kika DE" tvg-logo="/noicon.png" group-title="Deutsch",Kika DE - Kika DE
+http://dreamsat2.better-than.tv:80/live?channelId=274&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="272" tvg-name="Disney Cinemagic DE" tvg-logo="/noicon.png" group-title="Deutsch",Disney Cinemagic DE - Disney Cinemagic DE
+http://dreamsat.better-than.tv:80/live?channelId=272&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="350" tvg-name="Baby TV" tvg-logo="/noicon.png" group-title="Kids",Baby TV - Baby TV
+http://dreamsat2.better-than.tv:80/live?channelId=350&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="119" tvg-name="***** Sport *****" tvg-logo="/noicon.png" group-title="Sport",***** Sport ***** - ***** Sport *****
+http://dreamsat.better-than.tv:80/live?channelId=119&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="120" tvg-name="Sport Klub 1 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 HR - Sport Klub 1 HR
+http://s01.kafic.info:80/live?channelId=120&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="121" tvg-name="Sport Klub 2 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk2-logo.png" group-title="Sport",Sport Klub 2 HR - Sport Klub 2 HR
+http://s01.kafic.info:80/live?channelId=121&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="122" tvg-name="Sport Klub 3 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk3-logo.png" group-title="Sport",Sport Klub 3 HR - Sport Klub 3 HR
+http://s01.kafic.info:80/live?channelId=122&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="123" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
+http://s01.kafic.info:80/live?channelId=123&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="124" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_2.png" group-title="Sport",Sport Klub 2 - Sport Klub 2
+http://s01.kafic.info:80/live?channelId=124&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="125" tvg-name="Sport Klub 3" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_3.png" group-title="Sport",Sport Klub 3 - Sport Klub 3
+http://s01.kafic.info:80/live?channelId=125&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="237" tvg-name="Sport klub 4" tvg-logo="http://media.port-network.com/picture/instance_2/510897_2.jpg" group-title="Sport",Sport klub 4 - Sport klub 4
+http://cms.kafic.info:80/live?channelId=237&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="238" tvg-name="Sport klub 5" tvg-logo="http://media.port-network.com/picture/instance_2/510898_2.jpg" group-title="Sport",Sport klub 5 - Sport klub 5
+http://cms.kafic.info:80/live?channelId=238&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="363" tvg-name="Sport klub 6" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2016/02/Sport-Klub-6.jpg" group-title="Sport",Sport klub 6 - Sport klub 6
+http://cms.kafic.info:80/live?channelId=363&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="126" tvg-name="Arena Sport 1 HR" tvg-logo="http://mportal.com.hr/files/uploads/images/440x700/arena_logo.gif" group-title="Sport",Arena Sport 1 HR - Arena Sport 1 HR
+http://cms.kafic.info:80/live?channelId=126&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="127" tvg-name="Arena Sport 2 HR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyDlypZFdgCXgPMI1HhB3i6kNjpF4ttJD8H_z1pCzrQwjvMMR" group-title="Sport",Arena Sport 2 HR - Arena Sport 2 HR
+http://cms.kafic.info:80/live?channelId=127&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="128" tvg-name="Arena Sport 3 HR" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnF_lK9sjTcfnSMvCtXil7DCV_Ml3AnAaHnT2ZBcLQSw44aaU-a-R-t098" group-title="Sport",Arena Sport 3 HR - Arena Sport 3 HR
+http://cms.kafic.info:80/live?channelId=128&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="129" tvg-name="Arena Sport 4 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 4 HR - Arena Sport 4 HR
+http://cms.kafic.info:80/live?channelId=129&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="130" tvg-name="Arena Sport 5 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 5 HR - Arena Sport 5 HR
+http://cms.kafic.info:80/live?channelId=130&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="131" tvg-name="Arena Sport 1" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport1_rs.png" group-title="Sport",Arena Sport 1 - Arena Sport 1
+http://cms.kafic.info:80/live?channelId=131&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="132" tvg-name="Arena Sport 2" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport2_rs.png" group-title="Sport",Arena Sport 2 - Arena Sport 2
+http://cms.kafic.info:80/live?channelId=132&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="133" tvg-name="Arena Sport 3" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport3_rs.png" group-title="Sport",Arena Sport 3 - Arena Sport 3
+http://cms.kafic.info:80/live?channelId=133&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="134" tvg-name="Arena Sport 4" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport5_rs.png" group-title="Sport",Arena Sport 4 - Arena Sport 4
+http://cms.kafic.info:80/live?channelId=134&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="135" tvg-name="Arena Sport 5" tvg-logo="http://www.bhb.ba/upload/images/files.jpg" group-title="Sport",Arena Sport 5 - Arena Sport 5
+http://cms.kafic.info:80/live?channelId=135&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="136" tvg-name="Eurosport 1" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport-logo.png" group-title="Sport",Eurosport 1 - Eurosport 1
+http://s02.kafic.info:80/live?channelId=136&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="137" tvg-name="Eurosport 2" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport2-logo.png" group-title="Sport",Eurosport 2 - Eurosport 2
+http://s02.kafic.info:80/live?channelId=137&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="138" tvg-name="Sky Sports 1 UK" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzAf4aQS8L2lNlFkoycS2VeaNzEAwWOIKryVBCBKXHIrr4ST0w89GdhVbo" group-title="Sport",Sky Sports 1 UK - Sky Sports 1 UK
+http://s02.kafic.info:80/live?channelId=138&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="139" tvg-name="Sky Sports 2 UK" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png" group-title="Sport",Sky Sports 2 UK - Sky Sports 2 UK
+http://s02.kafic.info:80/live?channelId=139&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="140" tvg-name="Sky Sports 3 UK" tvg-logo="http://img2.wikia.nocookie.net/__cb20110206223105/logopedia/images/0/06/Sky_Sport_3_HD_Italy_2010.svg" group-title="Sport",Sky Sports 3 UK - Sky Sports 3 UK
+http://s02.kafic.info:80/live?channelId=140&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="141" tvg-name="Sky Sports 4 UK" tvg-logo="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png" group-title="Sport",Sky Sports 4 UK - Sky Sports 4 UK
+http://s02.kafic.info:80/live?channelId=141&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="368" tvg-name="Sky Sports 5 UK" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201408121889.png" group-title="Sport",Sky Sports 5 UK - Sky Sports 5 UK
+http://dreamsat.better-than.tv:80/live?channelId=368&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="151" tvg-name="Sky Sport F1 UK" tvg-logo="https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png" group-title="Sport",Sky Sport F1 UK - Sky Sport F1 UK
+http://s02.kafic.info:80/live?channelId=151&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="239" tvg-name="Sky Sport 1 IT" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD-1024x159.jpg" group-title="Sport",Sky Sport 1 IT - Sky Sport 1 IT
+http://s01.kafic.info:80/live?channelId=239&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="240" tvg-name="Sky Sport 2 IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2Lh_Mna8gZx-tnNEqQKDJt06xMuy7UQgsbVfcPub02zUZ-l2tg" group-title="Sport",Sky Sport 2 IT - Sky Sport 2 IT
+http://s01.kafic.info:80/live?channelId=240&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="241" tvg-name="Sky Sport 3 IT" tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png" group-title="Sport",Sky Sport 3 IT - Sky Sport 3 IT
+http://s01.kafic.info:80/live?channelId=241&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="242" tvg-name="Sky Sport F1 IT" tvg-logo="http://img2.wikia.nocookie.net/__cb20130902194359/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG" group-title="Sport",Sky Sport F1 IT - Sky Sport F1 IT
+http://s01.kafic.info:80/live?channelId=242&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="152" tvg-name="BT Sport 1 UK" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 UK - BT Sport 1 UK
+http://s02.kafic.info:80/live?channelId=152&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="153" tvg-name="BT Sport 2 UK" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 UK - BT Sport 2 UK
+http://s02.kafic.info:80/live?channelId=153&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="158" tvg-name="Sky Sport 1 DE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmi88jQ0QhULCu8IuTqiC4xx5M9BRg6wh6Z9htq1pc7Y8ZhMXN1S4Qzuk" group-title="Sport",Sky Sport 1 DE - Sky Sport 1 DE
+http://s02.kafic.info:80/live?channelId=158&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="159" tvg-name="Sky Sport 2 DE" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbzv3Fodx0VzDJ6OVc3FYgJ0PZ2AQP2SI4puvJ8yN4bgV7K9Q8cA" group-title="Sport",Sky Sport 2 DE - Sky Sport 2 DE
+http://s02.kafic.info:80/live?channelId=159&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="192" tvg-name="Sky Fussball Bundesliga DE" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Sport",Sky Fussball Bundesliga DE - Sky Fussball Bundesliga DE
+http://s02.kafic.info:80/live?channelId=192&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sports 1 - Bein Sports 1
+http://s02.kafic.info:80/live?channelId=142&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="143" tvg-name="Bein Sports 2" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",Bein Sports 2 - Bein Sports 2
+http://s02.kafic.info:80/live?channelId=143&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sports 3 - Bein Sports 3
+http://s02.kafic.info:80/live?channelId=144&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 4" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",Bein Sports 4 - Bein Sports 4
+http://s02.kafic.info:80/live?channelId=145&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sports 5 - Bein Sports 5
+http://s02.kafic.info:80/live?channelId=147&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 6" tvg-logo="http://www.new-tubes.net/file/2015/01/bein-sport-hd6.jpg" group-title="Sport",Bein Sports 6 - Bein Sports 6
+http://s02.kafic.info:80/live?channelId=146&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 7" tvg-logo="http://tgo-tv.com/images/tv/beIN7.jpg" group-title="Sport",Bein Sports 7 - Bein Sports 7
+http://s02.kafic.info:80/live?channelId=148&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 8" tvg-logo="http://www.teledusat.com/uploads/articles/10e6fe68.jpg" group-title="Sport",Bein Sports 8 - Bein Sports 8
+http://s02.kafic.info:80/live?channelId=149&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="150" tvg-name="Bein Sports 9" tvg-logo="http://www.teledusat.com/uploads/articles/272f78eb.jpg" group-title="Sport",Bein Sports 9 - Bein Sports 9
+http://s02.kafic.info:80/live?channelId=150&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="154" tvg-name="FOX Sports 1 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="Sport",FOX Sports 1 (Nl) - FOX Sports 1 (Nl)
+http://s02.kafic.info:80/live?channelId=154&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="155" tvg-name="FOX Sports 2 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 (Nl) - FOX Sports 2 (Nl)
+http://s02.kafic.info:80/live?channelId=155&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="156" tvg-name="FOX Sports 3 (Nl)" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png" group-title="Sport",FOX Sports 3 (Nl) - FOX Sports 3 (Nl)
+http://s02.kafic.info:80/live?channelId=156&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="157" tvg-name="FOX Sports 4 (Nl)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png" group-title="Sport",FOX Sports 4 (Nl) - FOX Sports 4 (Nl)
+http://s02.kafic.info:80/live?channelId=157&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="369" tvg-name="Digi Sport 1 (Ro)" tvg-logo="http://1.bp.blogspot.com/-7Lxnhk_bXMQ/UCdnpNqkX3I/AAAAAAAAIeE/0av9PPgR5uE/s1600/digi_sport1.png" group-title="Sport",Digi Sport 1 (Ro) - Digi Sport 1 (Ro)
+http://dreamsat.better-than.tv:80/live?channelId=369&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="370" tvg-name="Digi Sport 2 (Ro)" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-2.png" group-title="Sport",Digi Sport 2 (Ro) - Digi Sport 2 (Ro)
+http://dreamsat.better-than.tv:80/live?channelId=370&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="371" tvg-name="Digi Sport 3 (Ro)" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-3.png" group-title="Sport",Digi Sport 3 (Ro) - Digi Sport 3 (Ro)
+http://dreamsat.better-than.tv:80/live?channelId=371&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="268" tvg-name="ESPN UK" tvg-logo="/noicon.png" group-title="Sport",ESPN UK - ESPN UK
+http://dreamsat.better-than.tv:80/live?channelId=268&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="270" tvg-name="CANAL+ Sport (Fr)" tvg-logo="/noicon.png" group-title="Sport",CANAL+ Sport (Fr) - CANAL+ Sport (Fr)
+http://dreamsat.better-than.tv:80/live?channelId=270&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="271" tvg-name="Setanta Sports 1 UK" tvg-logo="https://secure.setantasubs.com/images/setanta-logo.png" group-title="Sport",Setanta Sports 1 UK - Setanta Sports 1 UK
+http://s01.kafic.info:80/live?channelId=271&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="269" tvg-name="Sportska TV" tvg-logo="http://kaportal.hr/kasarhiva/wp-content/uploads/2012/11/2D_Plavi.jpg" group-title="Sport",Sportska TV - Sportska TV
+http://dreamsat.better-than.tv:80/live?channelId=269&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="160" tvg-name="Motors TV UK" tvg-logo="http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg" group-title="Sport",Motors TV UK - Motors TV UK
+http://s02.kafic.info:80/live?channelId=160&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="161" tvg-name="Fight Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fight_Channel_World_logo.png/176px-Fight_Channel_World_logo.png" group-title="Sport",Fight Channel - Fight Channel
+http://s02.kafic.info:80/live?channelId=161&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="162" tvg-name="Real Madrid TV (Spa)" tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="Sport",Real Madrid TV (Spa) - Real Madrid TV (Spa)
+http://s02.kafic.info:80/live?channelId=162&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="163" tvg-name="Barca TV (Spa)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="Sport",Barca TV (Spa) - Barca TV (Spa)
+http://s02.kafic.info:80/live?channelId=163&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="164" tvg-name="***** Deutsch *****" tvg-logo="http://www.kf-kosova.de/images/deutsch-logo.png" group-title="Deutsch",***** Deutsch ***** - ***** Deutsch *****
+http://s02.kafic.info:80/live?channelId=164&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="165" tvg-name="RTL DE" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtl_hd_de.png" group-title="Deutsch",RTL DE - RTL DE
+http://s02.kafic.info:80/live?channelId=165&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="166" tvg-name="RTL 2 DE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgYgaD7jg8x0lTZYWPyz1NS3xqzTjImMrOLLMeo9rZMjIUkWIXsJSRL8U" group-title="Deutsch",RTL 2 DE - RTL 2 DE
+http://s02.kafic.info:80/live?channelId=166&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="167" tvg-name="Super RTL DE" tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2014-04/1398034768_super-rtl-hd-logo.jpg" group-title="Deutsch",Super RTL DE - Super RTL DE
+http://s02.kafic.info:80/live?channelId=167&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="190" tvg-name="RTL Nitro DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/250px-RTL_Nitro_logo.svg.png" group-title="Deutsch",RTL Nitro DE - RTL Nitro DE
+http://s02.kafic.info:80/live?channelId=190&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="168" tvg-name="ProSieben DE" tvg-logo="http://www.kidszone.de/screenshots/418x627/2008/04/ProSieben-Logo_mit_Text.jpg" group-title="Deutsch",ProSieben DE - ProSieben DE
+http://s02.kafic.info:80/live?channelId=168&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="169" tvg-name="Sat.1 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/c/c8/20120329142914!Sat.1_HD_Logo.png" group-title="Deutsch",Sat.1 DE - Sat.1 DE
+http://s02.kafic.info:80/live?channelId=169&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="170" tvg-name="Kabel Eins DE" tvg-logo="http://www.prosiebensat1.de/media/2447934/k1_hd_635x357.jpg" group-title="Deutsch",Kabel Eins DE - Kabel Eins DE
+http://s02.kafic.info:80/live?channelId=170&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="282" tvg-name="3sat DE" tvg-logo="/noicon.png" group-title="Deutsch",3sat DE - 3sat DE
+http://dreamsat.better-than.tv:80/live?channelId=282&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="171" tvg-name="VOX DE" tvg-logo="http://upload.wikimedia.org/wikipedia/de/thumb/e/ee/Vox-HD.svg/1000px-Vox-HD.svg.png" group-title="Deutsch",VOX DE - VOX DE
+http://s02.kafic.info:80/live?channelId=171&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="172" tvg-name="Arte DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="Deutsch",Arte DE - Arte DE
+http://s02.kafic.info:80/live?channelId=172&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="362" tvg-name="Das Erste DE" tvg-logo="/noicon.png" group-title="Deutsch",Das Erste DE - Das Erste DE
+http://dreamsat.better-than.tv:80/live?channelId=362&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="281" tvg-name="ZDF DE" tvg-logo="/noicon.png" group-title="Deutsch",ZDF DE - ZDF DE
+http://dreamsat.better-than.tv:80/live?channelId=281&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="175" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/200px-ORF_logo.svg.png" group-title="Deutsch",ORF 1 - ORF 1
+http://s02.kafic.info:80/live?channelId=175&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="176" tvg-name="ORF 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPFNrI1Rwsz11xqBv1rWcinbEIj--QB1dnqlDMwSnxyJIS7KkOjO3HGw" group-title="Deutsch",ORF 2 - ORF 2
+http://s02.kafic.info:80/live?channelId=176&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="276" tvg-name="Sixx DE" tvg-logo="/noicon.png" group-title="Deutsch",Sixx DE - Sixx DE
+http://dreamsat2.better-than.tv:80/live?channelId=276&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="275" tvg-name="Phoenix DE" tvg-logo="/noicon.png" group-title="Deutsch",Phoenix DE - Phoenix DE
+http://dreamsat2.better-than.tv:80/live?channelId=275&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="173" tvg-name="FOX DE" tvg-logo="http://globalepix.com/wp-content/uploads/2013/10/logos_none-FOX_bwlogo_wtext_400.jpg" group-title="Deutsch",FOX DE - FOX DE
+http://s02.kafic.info:80/live?channelId=173&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="174" tvg-name="AXN DE" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c4/AXN_HD_logo.png/revision/latest?cb=20140520122642" group-title="Deutsch",AXN DE - AXN DE
+http://s02.kafic.info:80/live?channelId=174&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="177" tvg-name="Sky Cinema DE" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_de_cinema.png" group-title="Deutsch",Sky Cinema DE - Sky Cinema DE
+http://s02.kafic.info:80/live?channelId=177&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="178" tvg-name="Sky Cinema +24 DE" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/448_sky_logo_skycinema24hd_tvguide.png" group-title="Deutsch",Sky Cinema +24 DE - Sky Cinema +24 DE
+http://s02.kafic.info:80/live?channelId=178&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="179" tvg-name="Sky Hits DE" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Deutsch",Sky Hits DE - Sky Hits DE
+http://s02.kafic.info:80/live?channelId=179&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="180" tvg-name="Sky Action DE" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_de_action_hd.png" group-title="Deutsch",Sky Action DE - Sky Action DE
+http://s02.kafic.info:80/live?channelId=180&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="181" tvg-name="Sky Comedy DE" tvg-logo="http://image1.tvdigital.de/files/station_logos/617.png" group-title="Deutsch",Sky Comedy DE - Sky Comedy DE
+http://s02.kafic.info:80/live?channelId=181&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="182" tvg-name="Sky Krimi DE" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRU9fHABTvlyh-chQzN2HhhUuiv7SusmM-sUl0dFerakc1bWvHoxt1r7I" group-title="Deutsch",Sky Krimi DE - Sky Krimi DE
+http://s02.kafic.info:80/live?channelId=182&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="279" tvg-name="Sky Emotion DE" tvg-logo="/noicon.png" group-title="Deutsch",Sky Emotion DE - Sky Emotion DE
+http://dreamsat.better-than.tv:80/live?channelId=279&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="286" tvg-name="Sky Atlantic DE" tvg-logo="/noicon.png" group-title="Deutsch",Sky Atlantic DE - Sky Atlantic DE
+http://dreamsat.better-than.tv:80/live?channelId=286&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="183" tvg-name="13th Street DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/13th_Street_Universal_HD.svg/495px-13th_Street_Universal_HD.svg.png" group-title="Deutsch",13th Street DE - 13th Street DE
+http://s02.kafic.info:80/live?channelId=183&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="184" tvg-name="TNT Film DE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png" group-title="Deutsch",TNT Film DE - TNT Film DE
+http://s02.kafic.info:80/live?channelId=184&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="428" tvg-name="TNT Serie DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="Deutsch",TNT Serie DE - TNT Serie DE
+http://dreamsat.better-than.tv:80/live?channelId=428&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="280" tvg-name="Syfy DE" tvg-logo="/noicon.png" group-title="Deutsch",Syfy DE - Syfy DE
+http://dreamsat.better-than.tv:80/live?channelId=280&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="186" tvg-name="National Geographic DE" tvg-logo="http://www5.pbrc.hawaii.edu/pcrl/img/natgeo_logo.png" group-title="Deutsch",National Geographic DE - National Geographic DE
+http://s02.kafic.info:80/live?channelId=186&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="187" tvg-name="Nat Geo Wild DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/8f/Nat_Geo_Wild_Variante_Logo.svg/720px-Nat_Geo_Wild_Variante_Logo.svg.png" group-title="Deutsch",Nat Geo Wild DE - Nat Geo Wild DE
+http://s02.kafic.info:80/live?channelId=187&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="191" tvg-name="Discovery Channel DE" tvg-logo="http://img1.wikia.nocookie.net/__cb20091126085643/logopedia/images/d/d8/Discovery_Channel_HD_2007.png" group-title="Deutsch",Discovery Channel DE - Discovery Channel DE
+http://s02.kafic.info:80/live?channelId=191&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="188" tvg-name="History Channel DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Deutsch",History Channel DE - History Channel DE
+http://s02.kafic.info:80/live?channelId=188&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="189" tvg-name="DMAX DE" tvg-logo="http://i714.photobucket.com/albums/ww144/robinsrl01/dmaxlogo3.jpg" group-title="Deutsch",DMAX DE - DMAX DE
+http://s02.kafic.info:80/live?channelId=189&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="351" tvg-name="Sky Select 1" tvg-logo="/noicon.png" group-title="Deutsch",Sky Select 1 - Sky Select 1
+http://dreamsat2.better-than.tv:80/live?channelId=351&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="352" tvg-name="Sky Select 2" tvg-logo="/noicon.png" group-title="Deutsch",Sky Select 2 - Sky Select 2
+http://dreamsat2.better-than.tv:80/live?channelId=352&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="353" tvg-name="Sky Select 3" tvg-logo="/noicon.png" group-title="Deutsch",Sky Select 3 - Sky Select 3
+http://dreamsat2.better-than.tv:80/live?channelId=353&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="354" tvg-name="Sky Select 4" tvg-logo="/noicon.png" group-title="Deutsch",Sky Select 4 - Sky Select 4
+http://dreamsat2.better-than.tv:80/live?channelId=354&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="355" tvg-name="Sky Select 5" tvg-logo="/noicon.png" group-title="Deutsch",Sky Select 5 - Sky Select 5
+http://dreamsat2.better-than.tv:80/live?channelId=355&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="356" tvg-name="Sky Select 6" tvg-logo="/noicon.png" group-title="Deutsch",Sky Select 6 - Sky Select 6
+http://dreamsat2.better-than.tv:80/live?channelId=356&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="357" tvg-name="Sky Select 7" tvg-logo="http://bajatv.info:8000/live/balkancafee/balkancafeerazmjena/40.ts" group-title="Deutsch",Sky Select 7 - Sky Select 7
+http://dreamsat2.better-than.tv:80/live?channelId=357&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="358" tvg-name="Sky Select 8" tvg-logo="/noicon.png" group-title="Deutsch",Sky Select 8 - Sky Select 8
+http://dreamsat2.better-than.tv:80/live?channelId=358&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="243" tvg-name="***** UK *****" tvg-logo="/noicon.png" group-title="International",***** UK ***** - ***** UK *****
+http://dreamsat.better-than.tv:80/live?channelId=243&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="244" tvg-name="BBC One UK" tvg-logo="/noicon.png" group-title="International",BBC One UK - BBC One UK
+http://s01.kafic.info:80/live?channelId=244&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="245" tvg-name="BBC Two UK" tvg-logo="/noicon.png" group-title="International",BBC Two UK - BBC Two UK
+http://s02.kafic.info:80/live?channelId=245&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="246" tvg-name="BBC Three UK" tvg-logo="/noicon.png" group-title="International",BBC Three UK - BBC Three UK
+http://s01.kafic.info:80/live?channelId=246&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="247" tvg-name="BBC Four UK" tvg-logo="/noicon.png" group-title="International",BBC Four UK - BBC Four UK
+http://s01.kafic.info:80/live?channelId=247&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="366" tvg-name="RTE One UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/250px-RT%C3%89_One_2014.svg.png" group-title="International",RTE One UK - RTE One UK
+http://dreamsat.better-than.tv:80/live?channelId=366&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="367" tvg-name="RTE Two UK" tvg-logo="http://vozplus.com/wp-content/uploads/rte_two.png" group-title="International",RTE Two UK - RTE Two UK
+http://dreamsat.better-than.tv:80/live?channelId=367&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="248" tvg-name="CNN" tvg-logo="/noicon.png" group-title="International",CNN - CNN
+http://s01.kafic.info:80/live?channelId=248&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="249" tvg-name="Sky News UK" tvg-logo="/noicon.png" group-title="International",Sky News UK - Sky News UK
+http://s01.kafic.info:80/live?channelId=249&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="250" tvg-name="National Geographic Channel UK" tvg-logo="/noicon.png" group-title="International",National Geographic Channel UK - National Geographic Channel UK
+http://s01.kafic.info:80/live?channelId=250&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="251" tvg-name="Nat Geo Wild UK" tvg-logo="/noicon.png" group-title="International",Nat Geo Wild UK - Nat Geo Wild UK
+http://cms.kafic.info:80/live?channelId=251&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="252" tvg-name="Discovery Channel UK" tvg-logo="/noicon.png" group-title="International",Discovery Channel UK - Discovery Channel UK
+http://cms.kafic.info:80/live?channelId=252&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="253" tvg-name="Discovery Science UK" tvg-logo="/noicon.png" group-title="International",Discovery Science UK - Discovery Science UK
+http://cms.kafic.info:80/live?channelId=253&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="254" tvg-name="Discovery Turbo UK" tvg-logo="/noicon.png" group-title="International",Discovery Turbo UK - Discovery Turbo UK
+http://s01.kafic.info:80/live?channelId=254&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="255" tvg-name="Investigation Discovery UK" tvg-logo="http://www.lamac.org/res/channels/logos/_0037_investigation_discovery.png" group-title="International",Investigation Discovery UK - Investigation Discovery UK
+http://cms.kafic.info:80/live?channelId=255&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="256" tvg-name="Discovery History UK" tvg-logo="/noicon.png" group-title="International",Discovery History UK - Discovery History UK
+http://cms.kafic.info:80/live?channelId=256&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="257" tvg-name="Sky Movies Action & Adventure UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Action & Adventure UK - Sky Movies Action & Adventure UK
+http://cms.kafic.info:80/live?channelId=257&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="258" tvg-name="Sky Movies Crime & Thriller UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Crime & Thriller UK - Sky Movies Crime & Thriller UK
+http://s01.kafic.info:80/live?channelId=258&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="259" tvg-name="Sky Movies Comedy UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Comedy UK - Sky Movies Comedy UK
+http://s02.kafic.info:80/live?channelId=259&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="260" tvg-name="Sky Movies Sci-Fi & Horror UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Sci-Fi & Horror UK - Sky Movies Sci-Fi & Horror UK
+http://s02.kafic.info:80/live?channelId=260&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="261" tvg-name="Sky Movies Premiere UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Premiere UK - Sky Movies Premiere UK
+http://s02.kafic.info:80/live?channelId=261&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="262" tvg-name="Sky Movies Family UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Family UK - Sky Movies Family UK
+http://s02.kafic.info:80/live?channelId=262&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="263" tvg-name="Sky Movies Drama & Romance UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Drama & Romance UK - Sky Movies Drama & Romance UK
+http://s02.kafic.info:80/live?channelId=263&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="264" tvg-name="Sky Movies Greats UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Greats UK - Sky Movies Greats UK
+http://cms.kafic.info:80/live?channelId=264&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="265" tvg-name="Sky Movies Select UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Select UK - Sky Movies Select UK
+http://s01.kafic.info:80/live?channelId=265&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="266" tvg-name="Sky Movies Disney UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Disney UK - Sky Movies Disney UK
+http://s01.kafic.info:80/live?channelId=266&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="267" tvg-name="Sky Movies Showcase UK" tvg-logo="/noicon.png" group-title="International",Sky Movies Showcase UK - Sky Movies Showcase UK
+http://s02.kafic.info:80/live?channelId=267&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="440" tvg-name="Sky Atlantic UK" tvg-logo="http://vignette3.wikia.nocookie.net/prisonbreak/images/8/84/Sky-atlantic-logo.jpg/revision/latest?cb=20110529133935" group-title="International",Sky Atlantic UK - Sky Atlantic UK
+http://dreamsat.better-than.tv:80/live?channelId=440&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="323" tvg-name="******ITALIAN******" tvg-logo="/noicon.png" group-title="Italian",******ITALIAN****** - ******ITALIAN******
+http://dreamsat2.better-than.tv:80/live?channelId=323&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="293" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2000px-Rai_1_HD_Logo.svg.png" group-title="Italian",Rai 1 IT - Rai 1 IT
+http://dreamsat2.better-than.tv:80/live?channelId=293&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="360" tvg-name="Rai 2 IT" tvg-logo="/noicon.png" group-title="Italian",Rai 2 IT - Rai 2 IT
+http://dreamsat2.better-than.tv:80/live?channelId=360&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="361" tvg-name="Rai 3 IT" tvg-logo="/noicon.png" group-title="Italian",Rai 3 IT - Rai 3 IT
+http://dreamsat2.better-than.tv:80/live?channelId=361&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="365" tvg-name="Canale 5 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Canale_5.svg/150px-Canale_5.svg.png" group-title="Italian",Canale 5 IT - Canale 5 IT
+http://dreamsat.better-than.tv:80/live?channelId=365&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="291" tvg-name="Sky Cinema IT" tvg-logo="http://www.lospettacolo.it/guidatv/loghi_canali/SKY1.png" group-title="Italian",Sky Cinema IT - Sky Cinema IT
+http://dreamsat.better-than.tv:80/live?channelId=291&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="302" tvg-name="Sky Cinema Max IT" tvg-logo="/noicon.png" group-title="Italian",Sky Cinema Max IT - Sky Cinema Max IT
+http://dreamsat.better-than.tv:80/live?channelId=302&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="288" tvg-name="Sky Cinema Family IT" tvg-logo="http://cdn.blogosfere.it/pellicolerovinate/images/532px-Sky_Cinema_Family.svg.png" group-title="Italian",Sky Cinema Family IT - Sky Cinema Family IT
+http://dreamsat.better-than.tv:80/live?channelId=288&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="298" tvg-name="Sky Cinema Comedy IT" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b6/Sky_Comedy.png/revision/latest?cb=20130719155702" group-title="Italian",Sky Cinema Comedy IT - Sky Cinema Comedy IT
+http://dreamsat.better-than.tv:80/live?channelId=298&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="294" tvg-name="Sky Cinema Cult IT" tvg-logo="http://presentationarchive.com/skycinema/cinemacult-f.jpg" group-title="Italian",Sky Cinema Cult IT - Sky Cinema Cult IT
+http://dreamsat2.better-than.tv:80/live?channelId=294&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="295" tvg-name="Sky Atlantic IT" tvg-logo="http://www.digital-news.it/files-admin/Simone/sky-atlantic-hd-logo.jpg" group-title="Italian",Sky Atlantic IT - Sky Atlantic IT
+http://dreamsat2.better-than.tv:80/live?channelId=295&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="300" tvg-name="Premium Cinema 2 IT" tvg-logo="http://www.mediasetpremium.it/bin/3.$plit/C_54_articolo_3858_imgarticolo.jpg" group-title="Italian",Premium Cinema 2 IT - Premium Cinema 2 IT
+http://dreamsat.better-than.tv:80/live?channelId=300&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="304" tvg-name="Premium Action IT" tvg-logo="/noicon.png" group-title="Italian",Premium Action IT - Premium Action IT
+http://dreamsat.better-than.tv:80/live?channelId=304&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="303" tvg-name="Premium Crime IT" tvg-logo="/noicon.png" group-title="Italian",Premium Crime IT - Premium Crime IT
+http://dreamsat.better-than.tv:80/live?channelId=303&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="299" tvg-name="Premium JOI IT" tvg-logo="http://static.televisionando.it/625X0/www/televisionando/it/img/joi-mediaset-premium.jpg" group-title="Italian",Premium JOI IT - Premium JOI IT
+http://dreamsat.better-than.tv:80/live?channelId=299&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="296" tvg-name="Premium Sport IT" tvg-logo="http://img.mediaset.it/bin/10.$plit/C_116_canali_36_upiLogo.jpg" group-title="Italian",Premium Sport IT - Premium Sport IT
+http://dreamsat2.better-than.tv:80/live?channelId=296&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="292" tvg-name="RSI La1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/220px-RSI_La_1_2012.svg.png" group-title="Italian",RSI La1 IT - RSI La1 IT
+http://dreamsat.better-than.tv:80/live?channelId=292&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="359" tvg-name="National Geographic IT" tvg-logo="/noicon.png" group-title="Italian",National Geographic IT - National Geographic IT
+http://dreamsat2.better-than.tv:80/live?channelId=359&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="319" tvg-name="History Channel IT" tvg-logo="/noicon.png" group-title="Italian",History Channel IT - History Channel IT
+http://dreamsat.better-than.tv:80/live?channelId=319&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="320" tvg-name="Discovery Channel IT" tvg-logo="/noicon.png" group-title="Italian",Discovery Channel IT - Discovery Channel IT
+http://dreamsat.better-than.tv:80/live?channelId=320&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="321" tvg-name="Discovery World IT" tvg-logo="/noicon.png" group-title="Italian",Discovery World IT - Discovery World IT
+http://dreamsat.better-than.tv:80/live?channelId=321&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="289" tvg-name="Nat Geo Wild IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="Italian",Nat Geo Wild IT - Nat Geo Wild IT
+http://dreamsat.better-than.tv:80/live?channelId=289&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="322" tvg-name="DMAX IT" tvg-logo="/noicon.png" group-title="Italian",DMAX IT - DMAX IT
+http://dreamsat.better-than.tv:80/live?channelId=322&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="290" tvg-name="Disney XD IT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/DisneyChannel1997.png" group-title="Italian",Disney XD IT - Disney XD IT
+http://dreamsat.better-than.tv:80/live?channelId=290&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="316" tvg-name="Disney Jr. IT" tvg-logo="/noicon.png" group-title="Italian",Disney Jr. IT - Disney Jr. IT
+http://dreamsat.better-than.tv:80/live?channelId=316&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="318" tvg-name="Cartoon Network IT" tvg-logo="/noicon.png" group-title="Italian",Cartoon Network IT - Cartoon Network IT
+http://dreamsat.better-than.tv:80/live?channelId=318&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="313" tvg-name="Sky Sport 24 IT" tvg-logo="/noicon.png" group-title="Italian",Sky Sport 24 IT - Sky Sport 24 IT
+http://dreamsat.better-than.tv:80/live?channelId=313&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="301" tvg-name="Premium Calcio IT" tvg-logo="http://img.mediaset.it/bin/36.$plit/C_116_canali_35_upiLogo.jpg" group-title="Italian",Premium Calcio IT - Premium Calcio IT
+http://dreamsat.better-than.tv:80/live?channelId=301&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="311" tvg-name="Sky Super Calcio IT" tvg-logo="/noicon.png" group-title="Italian",Sky Super Calcio IT - Sky Super Calcio IT
+http://dreamsat.better-than.tv:80/live?channelId=311&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="327" tvg-name="***** Turk *****" tvg-logo="/noicon.png" group-title="Turkey",***** Turk ***** - ***** Turk *****
+http://dreamsat2.better-than.tv:80/live?channelId=327&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="328" tvg-name="TRT" tvg-logo="/noicon.png" group-title="Turkey",TRT - TRT
+http://dreamsat2.better-than.tv:80/live?channelId=328&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="329" tvg-name="CNN Turk" tvg-logo="/noicon.png" group-title="Turkey",CNN Turk - CNN Turk
+http://dreamsat2.better-than.tv:80/live?channelId=329&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="330" tvg-name="ATV TR" tvg-logo="/noicon.png" group-title="Turkey",ATV TR - ATV TR
+http://dreamsat2.better-than.tv:80/live?channelId=330&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="331" tvg-name="NTV TR" tvg-logo="/noicon.png" group-title="Turkey",NTV TR - NTV TR
+http://dreamsat2.better-than.tv:80/live?channelId=331&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="332" tvg-name="Kral Tr" tvg-logo="/noicon.png" group-title="Turkey",Kral Tr - Kral Tr
+http://dreamsat2.better-than.tv:80/live?channelId=332&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="333" tvg-name="Kanal D TR" tvg-logo="/noicon.png" group-title="Turkey",Kanal D TR - Kanal D TR
+http://dreamsat2.better-than.tv:80/live?channelId=333&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="334" tvg-name="Dream Turk" tvg-logo="/noicon.png" group-title="Turkey",Dream Turk - Dream Turk
+http://cms.kafic.info:80/live?channelId=334&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="335" tvg-name="Haber TR" tvg-logo="/noicon.png" group-title="Turkey",Haber TR - Haber TR
+http://dreamsat2.better-than.tv:80/live?channelId=335&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="336" tvg-name="Star TV" tvg-logo="/noicon.png" group-title="Turkey",Star TV - Star TV
+http://dreamsat2.better-than.tv:80/live?channelId=336&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="337" tvg-name="Show TV" tvg-logo="/noicon.png" group-title="Turkey",Show TV - Show TV
+http://dreamsat2.better-than.tv:80/live?channelId=337&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="429" tvg-name="TV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="Turkey",TV 8 - TV 8
+http://dreamsat.better-than.tv:80/live?channelId=429&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="441" tvg-name="Beyaz TV" tvg-logo="/noicon.png" group-title="Turkey",Beyaz TV - Beyaz TV
+http://dreamsat.better-than.tv:80/live?channelId=441&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="338" tvg-name="Lig TV 1 (Tr)" tvg-logo="/noicon.png" group-title="Turkey",Lig TV 1 (Tr) - Lig TV 1 (Tr)
+http://dreamsat2.better-than.tv:80/live?channelId=338&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="339" tvg-name="Lig TV 2 (Tr)" tvg-logo="/noicon.png" group-title="Turkey",Lig TV 2 (Tr) - Lig TV 2 (Tr)
+http://dreamsat2.better-than.tv:80/live?channelId=339&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="340" tvg-name="Lig TV 3 (Tr)" tvg-logo="/noicon.png" group-title="Turkey",Lig TV 3 (Tr) - Lig TV 3 (Tr)
+http://dreamsat2.better-than.tv:80/live?channelId=340&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="376" tvg-name="***** Albanian *****" tvg-logo="/noicon.png" group-title="Albanian",***** Albanian ***** - ***** Albanian *****
+http://dreamsat2.better-than.tv:80/live?channelId=376&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="377" tvg-name="Top Chanel" tvg-logo="/noicon.png" group-title="Albanian",Top Chanel - Top Chanel
+http://dreamsat2.better-than.tv:80/live?channelId=377&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="378" tvg-name="Top News" tvg-logo="/noicon.png" group-title="Albanian",Top News - Top News
+http://dreamsat2.better-than.tv:80/live?channelId=378&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="379" tvg-name="ABC News" tvg-logo="/noicon.png" group-title="Albanian",ABC News - ABC News
+http://dreamsat2.better-than.tv:80/live?channelId=379&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="380" tvg-name="Klan" tvg-logo="/noicon.png" group-title="Albanian",Klan - Klan
+http://dreamsat2.better-than.tv:80/live?channelId=380&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="381" tvg-name="Klan Kosova" tvg-logo="/noicon.png" group-title="Albanian",Klan Kosova - Klan Kosova
+http://dreamsat2.better-than.tv:80/live?channelId=381&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="382" tvg-name="TVSH" tvg-logo="/noicon.png" group-title="Albanian",TVSH - TVSH
+http://dreamsat2.better-than.tv:80/live?channelId=382&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="383" tvg-name="Explorer Shkence" tvg-logo="/noicon.png" group-title="Albanian",Explorer Shkence - Explorer Shkence
+http://dreamsat2.better-than.tv:80/live?channelId=383&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="384" tvg-name="Explorer Histori" tvg-logo="/noicon.png" group-title="Albanian",Explorer Histori - Explorer Histori
+http://dreamsat2.better-than.tv:80/live?channelId=384&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="385" tvg-name="Explorer Natyra" tvg-logo="/noicon.png" group-title="Albanian",Explorer Natyra - Explorer Natyra
+http://dreamsat2.better-than.tv:80/live?channelId=385&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="386" tvg-name="Film Autor" tvg-logo="/noicon.png" group-title="Albanian",Film Autor - Film Autor
+http://dreamsat2.better-than.tv:80/live?channelId=386&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="387" tvg-name="Film Hits" tvg-logo="/noicon.png" group-title="Albanian",Film Hits - Film Hits
+http://dreamsat2.better-than.tv:80/live?channelId=387&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="388" tvg-name="Film Thriller" tvg-logo="/noicon.png" group-title="Albanian",Film Thriller - Film Thriller
+http://dreamsat2.better-than.tv:80/live?channelId=388&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="389" tvg-name="Film Drame" tvg-logo="/noicon.png" group-title="Albanian",Film Drame - Film Drame
+http://dreamsat2.better-than.tv:80/live?channelId=389&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="390" tvg-name="Film Aksion" tvg-logo="/noicon.png" group-title="Albanian",Film Aksion - Film Aksion
+http://dreamsat2.better-than.tv:80/live?channelId=390&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="391" tvg-name="Film Komedi" tvg-logo="/noicon.png" group-title="Albanian",Film Komedi - Film Komedi
+http://dreamsat2.better-than.tv:80/live?channelId=391&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="392" tvg-name="Film Nje" tvg-logo="/noicon.png" group-title="Albanian",Film Nje - Film Nje
+http://dreamsat2.better-than.tv:80/live?channelId=392&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="393" tvg-name="Film Dy" tvg-logo="/noicon.png" group-title="Albanian",Film Dy - Film Dy
+http://dreamsat2.better-than.tv:80/live?channelId=393&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="453" tvg-name="Digi Gold" tvg-logo="/noicon.png" group-title="Albanian",Digi Gold - Digi Gold
+http://dreamsat.better-than.tv:80/live?channelId=453&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="394" tvg-name="SuperSport 1" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 1 - SuperSport 1
+http://dreamsat2.better-than.tv:80/live?channelId=394&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="395" tvg-name="SuperSport 2" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 2 - SuperSport 2
+http://dreamsat2.better-than.tv:80/live?channelId=395&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="396" tvg-name="SuperSport 3" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 3 - SuperSport 3
+http://dreamsat2.better-than.tv:80/live?channelId=396&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="397" tvg-name="SuperSport 4" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 4 - SuperSport 4
+http://dreamsat2.better-than.tv:80/live?channelId=397&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="398" tvg-name="Bang Bang" tvg-logo="/noicon.png" group-title="Albanian",Bang Bang - Bang Bang
+http://dreamsat2.better-than.tv:80/live?channelId=398&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="399" tvg-name="Cufo" tvg-logo="/noicon.png" group-title="Albanian",Cufo - Cufo
+http://dreamsat2.better-than.tv:80/live?channelId=399&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="400" tvg-name="Digitalb Junior" tvg-logo="/noicon.png" group-title="Albanian",Digitalb Junior - Digitalb Junior
+http://dreamsat2.better-than.tv:80/live?channelId=400&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="401" tvg-name="Vizion Plus" tvg-logo="/noicon.png" group-title="Albanian",Vizion Plus - Vizion Plus
+http://dreamsat2.better-than.tv:80/live?channelId=401&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="402" tvg-name="KTV" tvg-logo="/noicon.png" group-title="Albanian",KTV - KTV
+http://dreamsat2.better-than.tv:80/live?channelId=402&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="403" tvg-name="RTV 21" tvg-logo="/noicon.png" group-title="Albanian",RTV 21 - RTV 21
+http://dreamsat2.better-than.tv:80/live?channelId=403&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="452" tvg-name="RTV 21 Plus" tvg-logo="/noicon.png" group-title="Albanian",RTV 21 Plus - RTV 21 Plus
+http://dreamsat.better-than.tv:80/live?channelId=452&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="404" tvg-name="RTV 21 Popullore" tvg-logo="/noicon.png" group-title="Albanian",RTV 21 Popullore - RTV 21 Popullore
+http://dreamsat2.better-than.tv:80/live?channelId=404&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="405" tvg-name="RTK" tvg-logo="/noicon.png" group-title="Albanian",RTK - RTK
+http://dreamsat2.better-than.tv:80/live?channelId=405&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="406" tvg-name="Tring Shqip" tvg-logo="/noicon.png" group-title="Albanian",Tring Shqip - Tring Shqip
+http://dreamsat2.better-than.tv:80/live?channelId=406&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="407" tvg-name="3 Plus" tvg-logo="/noicon.png" group-title="Albanian",3 Plus - 3 Plus
+http://dreamsat2.better-than.tv:80/live?channelId=407&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="409" tvg-name="Tring Super" tvg-logo="/noicon.png" group-title="Albanian",Tring Super - Tring Super
+http://dreamsat2.better-than.tv:80/live?channelId=409&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="410" tvg-name="Tring MAX" tvg-logo="/noicon.png" group-title="Albanian",Tring MAX - Tring MAX
+http://dreamsat2.better-than.tv:80/live?channelId=410&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="411" tvg-name="Tring Life" tvg-logo="/noicon.png" group-title="Albanian",Tring Life - Tring Life
+http://dreamsat2.better-than.tv:80/live?channelId=411&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="412" tvg-name="Tring Comedy" tvg-logo="/noicon.png" group-title="Albanian",Tring Comedy - Tring Comedy
+http://dreamsat2.better-than.tv:80/live?channelId=412&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="413" tvg-name="Tring Fantasy" tvg-logo="/noicon.png" group-title="Albanian",Tring Fantasy - Tring Fantasy
+http://dreamsat2.better-than.tv:80/live?channelId=413&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="414" tvg-name="Tring History" tvg-logo="/noicon.png" group-title="Albanian",Tring History - Tring History
+http://dreamsat2.better-than.tv:80/live?channelId=414&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="415" tvg-name="Tring Planet" tvg-logo="/noicon.png" group-title="Albanian",Tring Planet - Tring Planet
+http://dreamsat2.better-than.tv:80/live?channelId=415&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="416" tvg-name="Tring World" tvg-logo="/noicon.png" group-title="Albanian",Tring World - Tring World
+http://dreamsat2.better-than.tv:80/live?channelId=416&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="418" tvg-name="Elrodi TV" tvg-logo="/noicon.png" group-title="Albanian",Elrodi TV - Elrodi TV
+http://dreamsat.better-than.tv:80/live?channelId=418&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="419" tvg-name="Folk +" tvg-logo="/noicon.png" group-title="Albanian",Folk + - Folk +
+http://dreamsat.better-than.tv:80/live?channelId=419&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="420" tvg-name="Tring Sport 1" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 1 - Tring Sport 1
+http://dreamsat.better-than.tv:80/live?channelId=420&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="421" tvg-name="Tring Sport 2" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 2 - Tring Sport 2
+http://dreamsat.better-than.tv:80/live?channelId=421&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="422" tvg-name="Tring Sport 3" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 3 - Tring Sport 3
+http://dreamsat.better-than.tv:80/live?channelId=422&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="423" tvg-name="Tring Sport 4" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 4 - Tring Sport 4
+http://dreamsat.better-than.tv:80/live?channelId=423&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="424" tvg-name="Tring Tring" tvg-logo="/noicon.png" group-title="Albanian",Tring Tring - Tring Tring
+http://dreamsat.better-than.tv:80/live?channelId=424&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="425" tvg-name="Tip TV" tvg-logo="/noicon.png" group-title="Albanian",Tip TV - Tip TV
+http://dreamsat.better-than.tv:80/live?channelId=425&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="211" tvg-name="***** Adult *****" tvg-logo="/noicon.png" group-title="Adult",***** Adult ***** - ***** Adult *****
+http://s02.kafic.info:80/live?channelId=211&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="212" tvg-name="Pink Erotic" tvg-logo="/noicon.png" group-title="Adult",Pink Erotic - Pink Erotic
+http://s02.kafic.info:80/live?channelId=212&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="213" tvg-name="Pink Erotic 2" tvg-logo="/noicon.png" group-title="Adult",Pink Erotic 2 - Pink Erotic 2
+http://s02.kafic.info:80/live?channelId=213&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="214" tvg-name="Pink Erotic 3" tvg-logo="/noicon.png" group-title="Adult",Pink Erotic 3 - Pink Erotic 3
+http://s02.kafic.info:80/live?channelId=214&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="215" tvg-name="Pink Erotic 4" tvg-logo="/noicon.png" group-title="Adult",Pink Erotic 4 - Pink Erotic 4
+http://s02.kafic.info:80/live?channelId=215&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="217" tvg-name="Brazzers" tvg-logo="/noicon.png" group-title="Adult",Brazzers - Brazzers
+http://s02.kafic.info:80/live?channelId=217&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="218" tvg-name="Dorcel" tvg-logo="/noicon.png" group-title="Adult",Dorcel - Dorcel
+http://s02.kafic.info:80/live?channelId=218&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="216" tvg-name="Hustler" tvg-logo="/noicon.png" group-title="Adult",Hustler - Hustler
+http://s02.kafic.info:80/live?channelId=216&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="219" tvg-name="Adult mix 1" tvg-logo="/noicon.png" group-title="Adult",Adult mix 1 - Adult mix 1
+http://s02.kafic.info:80/live?channelId=219&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="220" tvg-name="Adult mix 2" tvg-logo="/noicon.png" group-title="Adult",Adult mix 2 - Adult mix 2
+http://s02.kafic.info:80/live?channelId=220&uid=2107&deviceUser=606Info&devicePass=606Info
+#EXTINF:-1 tvg-id="221" tvg-name="Adult mix 3" tvg-logo="/noicon.png" group-title="Adult",Adult mix 3 - Adult mix 3
+http://s02.kafic.info:80/live?channelId=221&uid=2107&deviceUser=606Info&devicePass=606Info
