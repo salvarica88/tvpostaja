@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Sport Klub 1 Hr - Sport Klub 1 Hr
+http://cms.bossna-caffe.com:80/live?channelId=44&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Sport Klub 2 Hr - Sport Klub 2 Hr
+http://cms.bossna-caffe.com:80/live?channelId=45&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Sport Klub 3 Hr - Sport Klub 3 Hr
+http://cms.bossna-caffe.com:80/live?channelId=46&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Sport Klub 1 SR - Sport Klub 1 SR
+http://cms.bossna-caffe.com:80/live?channelId=254&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Sport Klub 2 SR - Sport Klub 2 SR
+http://cms.bossna-caffe.com:80/live?channelId=255&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Sport Klub 3 SR - Sport Klub 3 SR
+http://cms.bossna-caffe.com:80/live?channelId=256&uid=6669&deviceUser=danidevicePass=dani
+#EXTINF:-1,Arena Sport 1 (HR) - Arena Sport 1 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=52&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sport 2 (HR) - Arena Sport 2 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=53&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sport 3 (HR) - Arena Sport 3 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=54&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sport 4 (HR) - Arena Sport 4 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=88&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sport 5 (HR) - Arena Sport 5 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=178&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sports 1 (SR) - Arena Sports 1 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=187&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sports 2 (SR) - Arena Sports 2 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=188&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sports 3 (SR) - Arena Sports 3 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=189&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sports 4 (SR) - Arena Sports 4 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=190&uid=6669&deviceUser=dani&devicePass=dani
+#EXTINF:-1,Arena Sport 5 SR - Arena Sport 5 SR
+http://cms.bossna-caffe.com:80/live?channelId=211&uid=6669&deviceUser=dani&devicePass=dani
